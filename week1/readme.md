@@ -12,8 +12,8 @@ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a w
 6. Share work and discuss (30 minutes) 
 
 ##Artists
-[Rafaël Rozendaal] (http://www.newrafael.com/websites/)
-[Camille Utterback] (http://camilleutterback.com/)
-[Aaron Koblin “the sheep market”] (http://www.aaronkoblin.com/work/thesheepmarket/)
-[Vishal K Dar and Gabriel L Dunne] (https://vimeo.com/38492062)
+*[Rafaël Rozendaal] (http://www.newrafael.com/websites/)
+*[Camille Utterback] (http://camilleutterback.com/)
+*[Aaron Koblin “the sheep market”] (http://www.aaronkoblin.com/work/thesheepmarket/)
+*[Vishal K Dar and Gabriel L Dunne] (https://vimeo.com/38492062)
 
