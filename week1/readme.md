@@ -8,7 +8,7 @@
 4. Introduction to the Processing software ([tutorial](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/) and experiments) (30 minutes)
 5. Project 1: draw a self-portrait or series of self portraits (60 minutes)
 CHALLENGE: add incremental movement to your portrait
-CHALLENGE: draw a self-portrait in a style that mimics a famous artist or art movement (e.g. [Impressionism](http://mattdesl.github.io/impressionist/app/), Cubism, Mondrian)  
+CHALLENGE: draw a self-portrait that is abstract, that describes the self in a way that's not representational.   
 6. Share work and discuss (30 minutes) 
 
 
