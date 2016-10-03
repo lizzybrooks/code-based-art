@@ -11,3 +11,4 @@
       Challenge: draw a self-portrait in a style that mimics a famous artist or art movement (e.g. Impressionism, Cubism, Piet        Mondrian)  
 5. Share work and discuss (30 minutes) 
 
+[I'm an inline-style link](https://www.google.com)
