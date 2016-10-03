@@ -7,16 +7,16 @@ We'll make a series of projects that explore creative and interesting applicatio
 Each week has its own focus (overviewed below). Look in the folders for more details, examples and source code. 
 
 ####Week 1
-TECHNICAL: Introduction to coding in Processing. CONCEPTS: What is a digital self portrait?
+TECHNICAL: Introduction to coding in Processing.  CONCEPTS: What is a digital self portrait?
 
 ####Week 2:
-TECHNICAL: Introduction to Arduino/Physical Computing/Electronics. CONCEPTS: What makes a machine poignant?
+TECHNICAL: Introduction to Arduino/Physical Computing/Electronics.  CONCEPTS: What makes a machine poignant?
 
-Week 3: 
-TECHNICAL: Interactivity or how to build a bridge between physical and virtual worlds (Processing + Arduino). CONCEPTS: How to explore/reveal relationships between humans and machines? 
+####Week 3: 
+TECHNICAL: Interactivity or how to build a bridge between physical and virtual worlds (Processing + Arduino).  CONCEPTS: How to explore/reveal relationships between humans and machines? 
 
-Week 4: 
-TECHNICAL: Working with live data/harnessing the Twitter API. CONCEPTS: A collective self portrait? How can we make data poignant?
+####Week 4: 
+TECHNICAL: Working with live data/harnessing the Twitter API.  CONCEPTS: A collective self portrait? How can we make data poignant?
 
-Week 5:
+####Week 5:
 Election Viewing Party/Exhibition! Make something (art) to run live for the election. Invite friends!
