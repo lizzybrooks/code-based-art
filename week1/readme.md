@@ -1,6 +1,6 @@
 #code-based art
 
-##Drawing in Processing
+##Week 1: Drawing in Processing
 
 1. Introductions (Why are you here? Why am I here?) (20 mins)
 2. A slideshow/discussion of interesting artwork (30 mins)
@@ -11,4 +11,9 @@ CHALLENGE: add incremental movement to your portrait.
 CHALLENGE: draw a self-portrait that is abstract, that describes the self in a way that's not representational.   
 6. Share work and discuss (30 minutes) 
 
+##Artists
+[Rafaël Rozendaal] (http://www.newrafael.com/websites/)
+[Camille Utterback] (http://camilleutterback.com/)
+[Aaron Koblin “the sheep market”] (http://www.aaronkoblin.com/work/thesheepmarket/)
+[Vishal K Dar and Gabriel L Dunne] (https://vimeo.com/38492062)
 
