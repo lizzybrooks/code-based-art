@@ -8,7 +8,7 @@
 
 3. Introduction to Arduino. [Blink tutorial and experiments] (https://www.arduino.cc/en/Tutorial/Blink). (30 minutes)
 
-4. Project 2: Use the [Sweep tutorial] (https://www.arduino.cc/en/Tutorial/Sweep) to make something with your servo motor. Use the cat, or make something with wire and feathers, or use the tiny mallets and aluminum pans to make a small instrument.  (60 minutes)
+4. Project 2: Use the [Sweep tutorial] (https://www.arduino.cc/en/Tutorial/Sweep) to make something with your servo motor. Use the cat, or make something with wire and feathers, or use the tiny mallets and aluminum pans to make a small instrument. CHALLENGE: Try to mimic an organic motion. (60 minutes)
 
 5. Share work and discuss (30 minutes)
 
