@@ -15,9 +15,9 @@ At this point, you'll be running Processing and Arduino. You'll have an interact
 ####You Have Reached Your Goal-- Congratulations!!
 
 From here, you can go in several directions:
-* Gloat in your success
-* Make a more elaborate moving sculpture (with glue gun and feathers and anything else)
-* Go backwards from Arduino to Processing-- as the cat moves, it changes your drawing (practice degrading a photo in interesting ways)
+* Gloat in your success.
+* Make a more elaborate moving sculpture (with glue gun and feathers and anything else).
+* Go backwards from Arduino to Processing-- as the cat moves, it changes your drawing (practice degrading a photo in interesting ways).
 * Work on adding a motion or vibration sensor to activate your cat from the human world. 
 
 ##Artists
