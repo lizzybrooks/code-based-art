@@ -12,7 +12,7 @@ At this point, you'll be running Processing and Arduino. You'll have an interact
 6. Introducing serial communication between Processing and Arduino. Make your light blink with a mouse click (walk through example). (30 minutes) 
 7. Get your servo motor and your scuplture/plastic cat working on this program (activate your cat with a click). 
 
-##--You Have Reached Your Goal-- Congratulations!!
+####You Have Reached Your Goal-- Congratulations!!
 
 From here, you can go in several directions:
 * Gloat in your success
