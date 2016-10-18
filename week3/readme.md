@@ -5,7 +5,7 @@
 1. Check in/recap from last week. (5 mins)
 2. A slideshow/discussion of interesting artwork (20 mins)
 3. Brief overview of different types of interaction and how they work (mouse events, data streams, sensors, buttons, trip wires, etc.) (10 mins)
-4. Back to Processing! Review the very end of our [first tutorial](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/) -- the MousePressed function 
+4. Back to Processing! Review the very end of our [first tutorial](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/), the MousePressed function. 
 Simplify this code so that MousePressed changes the color of the background-- nothing else. If this is super easy for you, challenge yourself to change the color in varying gradients, depending on the duration of MousePressed (make something lovely). (20 minutes)
 5. Open Arduino and get the [blink tutorial] (https://www.arduino.cc/en/Tutorial/Blink) (first one from last week) loaded onto your board. (20 minutes)
 At this point, you'll be running Processing and Arduino. You'll have an interactive Processing sketch and a blinking LED on the Arduino.
