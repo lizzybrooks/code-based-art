@@ -17,8 +17,10 @@ At this point, you'll be running Processing and Arduino. You'll have an interact
 From here, you can go in several directions:
 * Gloat in your success.
 * Make a more elaborate moving sculpture (with glue gun and feathers and anything else).
-* Go backwards from Arduino to Processing-- as the cat moves, it changes your drawing (practice degrading a photo in interesting ways).
+* Go backwards from Arduino to Processing-- as the cat moves, it changes your drawing (practice degrading a photo in interesting ways). Again, check [here](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing#to-arduino) to explore moving between Processing and Arduino. And for commands to load and mess with photos, check the image examples in the [Processing library] (https://processing.org/examples/). 
 * Work on adding a motion or vibration sensor to activate your cat from the human world. 
+For motion, explore PIR sensors with [this overview] (https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview) and [this example] (https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/arduino).
+For vibration sensors, use the Piezo electric disk and the [knock tutorial] (https://www.arduino.cc/en/Tutorial/Knock). 
 
 ##Artists
 * [Nick Yulman, Sound Cabinet] (http://nysoundworks.org/songcabinet/)
