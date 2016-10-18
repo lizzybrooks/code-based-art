@@ -9,7 +9,7 @@
 Simplify this code so that MousePressed changes the color of the background-- nothing else. If this is super easy for you, challenge yourself to change the color in varying gradients, depending on the duration of MousePressed (make something lovely). (20 minutes)
 5. Open Arduino and get the [blink tutorial] (https://www.arduino.cc/en/Tutorial/Blink) (first one from last week) loaded onto your board. (20 minutes)
 At this point, you'll be running Processing and Arduino. You'll have an interactive Processing sketch and a blinking LED on the Arduino.
-6. Introducing serial communication between Processing and Arduino. Make your light blink with a mouse click (walk through [example]) (https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/processing/Interaction1). [This tutorial](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing#to-arduino) is also useful. (30 minutes) 
+6. Introducing serial communication between Processing and Arduino. Make your light blink with a mouse click (walk through [example](https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/processing/Interaction1)). [This tutorial](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing#to-arduino) is also useful. (30 minutes) 
 7. Get your servo motor and your scuplture/plastic cat working on this program (activate your cat with a click). 
 
 ####You Have Reached Your Goal-- Congratulations!!
