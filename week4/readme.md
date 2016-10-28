@@ -37,4 +37,5 @@ Extra bonus idea:
 * [Arrays] (https://processing.org/tutorials/arrays/)
 * [Not to be confused with ArrayLists] (https://processing.org/reference/ArrayList.html)
 * [What is a function?] (http://www.cs.du.edu/~malbow/COMP1671/Notes/ProcessingNotes3.pdf)
+* [What is an object?] (https://en.wikipedia.org/wiki/Object_(computer_science))
 * [A brief introduction to debugging: 4 videos, lots of moral support](https://vimeo.com/itpred/videos/search:debugging/sort:date)
