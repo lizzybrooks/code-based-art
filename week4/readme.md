@@ -29,6 +29,7 @@ Extra bonus idea:
 * [Example, post to Twitter with an Arduino] (http://benjgorman.com/twitter-arduino-and-processing/)
 * [Example, Twitter + Processing + Arduino] (http://cmuems.com/2012/c/twitter-processing-arduino/)
 * [APIs that don't require authentication] (https://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/)
+* [great video tutorial on Processing + Twitter] (https://www.youtube.com/watch?v=gwS6irtGK-c)
 
 
 ##Programming concepts explained in human English
