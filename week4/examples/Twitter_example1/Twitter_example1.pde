@@ -1,3 +1,5 @@
+//This is a simple example to connect to the Twitter API and test a query
+
 
 // import the Twitter library
 import twitter4j.*;
