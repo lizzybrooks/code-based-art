@@ -1,3 +1,5 @@
+//This example queries Twitter for everything that includes #worldseries. When it finds something that also includes "cubs", it draws an ellipse.
+
 
 // import the Twitter library
 import twitter4j.*;
