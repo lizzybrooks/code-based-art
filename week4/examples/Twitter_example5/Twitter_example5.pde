@@ -1,3 +1,4 @@
+//This sketch counts the number of #worldseries tweets that contain the word cubs and prints that number to the console
 
 // import the Twitter library
 import twitter4j.*;
