@@ -1,3 +1,5 @@
+// This example queries Twitter every 10 seconds for #worldseries and cubs, and draws corresponding ellipses
+
 // import the Twitter library
 import twitter4j.*;
 import twitter4j.api.*;
