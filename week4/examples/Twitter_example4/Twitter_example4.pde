@@ -1,3 +1,4 @@
+//This example searches Twitter for a keyword and prints all the tweets it gets onto the screen.
 
 // import the Twitter library
 import twitter4j.*;
