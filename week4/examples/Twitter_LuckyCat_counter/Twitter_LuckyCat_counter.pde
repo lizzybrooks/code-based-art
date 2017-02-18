@@ -1,3 +1,4 @@
+//This example moves the arm of a waving lucky cat whenever someone tweets #GoldenLuckyCat
 
 //import the twitter library
 import twitter4j.*;
