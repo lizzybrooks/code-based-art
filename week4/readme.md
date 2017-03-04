@@ -20,8 +20,8 @@
 * 
 
 ##Add-ons
-*Processing Visualizer for LED matrix panel [here](https://github.com/jdeboi/pimpMyBike)
-*Add motion or vibration sensors to activate your display:
+* Processing Visualizer for LED matrix panel [here](https://github.com/jdeboi/pimpMyBike)
+* Add motion or vibration sensors to activate your display:
 For motion, explore PIR sensors with [this overview] (https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview) and [this example] (https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/arduino).
 For vibration sensors, use the Piezo electric disk and the [knock tutorial] (https://www.arduino.cc/en/Tutorial/Knock).
 
