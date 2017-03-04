@@ -1,44 +1,28 @@
 #code-based art
 
-##Week 4: Working with Live Data
+##Week 4: Working with an LED matrix panel
 
-1. Share work and ideas from the break. (20 mins)
-2. A slideshow/discussion of interesting artwork and an introduction to the concept of an API (30 mins)
-3. Register as developers on Twitter and gain access to the Twitter API (10 minutes)
-4. Download and install the most recent Twitter library for Processing and import it into the first example sketch (20 minutes)
+1. Check in and remember what we did last week. (10 mins)
+2. A slideshow/discussion of interesting artwork (20 minutes)
+3. Introduce the LED panel- what can we do with this thing? (10 minutes)
+4. Walk through setting up the LED panel and play with the examples (40 minutes).
+  * Hook up the panel [tutorial](http://embedded-lab.com/blog/hookup-guide-for-16x32-rgb-led-panel/)
+  * Install libraries [tutorial](https://www.arduino.cc/en/Guide/Libraries)
+  * Review the [graphics guide](https://learn.adafruit.com/adafruit-gfx-graphics-library/overview) to explore what you can do with this library.
+  
 5. Break/check: everyone cool? (10 minutes)
-7. Play with the examples, use Twitter to draw, alter photographs, move the cat, whatever you want. (1 hour)
+7. Play with the examples, make your own light drawing (1 hour)
 8. Share work, share code (30 minutes)
 
-Extra bonus idea:
-* Try using a sensor to move the cat and send a Tweet! 
+
 
 ##Artists/Projects
-* [Facebook Flowers] (http://stamen.com/work/facebook-flowers/)
-* [Anti Eviction Mapping Project] (http://www.antievictionmap.com/)
-* [Electronic Disturbance Theater] (http://hyperallergic.com/54678/poetry-immigration-and-the-fbi-the-transborder-immigrant-tool/)
-* [Jer Thorp, Random Number Multiples] (http://blog.blprnt.com/blog/blprnt/random-number-multiples)
-* [Jer Thorp essay: Art & the API] (http://blog.blprnt.com/blog/blprnt/art-and-the-api)
-* [Is the L Train Fucked?] (http://www.istheltrainfucked.com/)[and on GitHub](https://github.com/jgv/is-the-L-train-fucked)
+* 
+
+##Add-ons
+*Processing Visualizer for LED matrix panel [here](https://github.com/jdeboi/pimpMyBike)
+*Add motion or vibration sensors to activate your display:
+For motion, explore PIR sensors with [this overview] (https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview) and [this example] (https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/arduino).
+For vibration sensors, use the Piezo electric disk and the [knock tutorial] (https://www.arduino.cc/en/Tutorial/Knock).
 
 
-##Tutorials and Reference Sites for Processing + Twitter
-(don't be alarmed if some of these examples don't work right "out of the box". Twitter regularly changes their login processes, so you may need to do some updating/troubleshooting by comparing with our class examples-- still, these have useful information!)
-* [Twitter4J, a Java library for the Twitter API] (http://twitter4j.org/en/index.html)
-* [Example, draw words from Twitter in Processing] (http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter)
-* [Example, post to Twitter with an Arduino] (http://benjgorman.com/twitter-arduino-and-processing/)
-* [Example, Twitter + Processing + Arduino] (http://cmuems.com/2012/c/twitter-processing-arduino/)
-* [APIs that don't require authentication] (https://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/)
-* [great video tutorial on Processing + Twitter] (https://www.youtube.com/watch?v=gwS6irtGK-c)
-
-
-##Programming concepts explained in human English
-* [What is an API?] (http://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/)
-* [Try/Catch statements in Processing] (https://processing.org/reference/try.html)
-* [Arrays] (https://processing.org/tutorials/arrays/)
-* [Not to be confused with ArrayLists] (https://processing.org/reference/ArrayList.html)
-* [What is a function?] (http://www.cs.du.edu/~malbow/COMP1671/Notes/ProcessingNotes3.pdf)
-* [What is an object?] (https://en.wikipedia.org/wiki/Object_(computer_science))
-* [A brief introduction to debugging: 4 videos, lots of moral support](https://vimeo.com/itpred/videos/search:debugging/sort:date)
-* [Twitter's Streaming vs Rest APIs] (https://dev.twitter.com/rest/public)
-* [What is a do while loop] (https://en.wikipedia.org/wiki/Do_while_loop)
