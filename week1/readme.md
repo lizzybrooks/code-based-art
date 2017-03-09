@@ -18,7 +18,7 @@ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a w
 * [Vishal K Dar and Gabriel L Dunne] (https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"] (http://www.what-a-misunderstanding.com/)
 * [Peter Crnokrak] (http://www.petercrnokrak.com)
-* [Rafael Lozano-Hemmer] (http://www.lozano-hemmer.com/images.php)
+* [Rafael Lozano-Hemmer] (http://www.lozano-hemmer.com/bifurcation.php)
 * [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
 * [ken Goldberg] (https://boomcalifornia.com/2015/08/18/bloom/)
 * [Casey Reas](http://reas.com/)
