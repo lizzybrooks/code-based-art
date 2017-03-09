@@ -22,4 +22,4 @@ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a w
 * [ken Goldberg] (https://boomcalifornia.com/2015/08/18/bloom/)
 * [Casey Reas](http://reas.com/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
-
+* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
