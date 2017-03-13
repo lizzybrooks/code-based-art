@@ -1,3 +1,7 @@
+##Twitter is a great way to start playing with data visualization. 
+Processing.org has a [good tutorial](https://processing.org/tutorials/data/) to explain this stuff in more detail. 
+
+
 ##Tutorials and Reference Sites for Processing + Twitter
 (don't be alarmed if some of these examples don't work right "out of the box". Twitter regularly changes their login processes, so you may need to do some updating/troubleshooting by comparing with our class examples-- still, these have useful information!)
 * [Twitter4J, a Java library for the Twitter API] (http://twitter4j.org/en/index.html)
