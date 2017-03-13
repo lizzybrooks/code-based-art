@@ -19,5 +19,5 @@
 
 
 ##Artists
-* 
-
+* [Anti Eviction Mapping Project] (http://www.antievictionmap.com/)
+* [Jer Thorp, Random Number Multiples] (http://blog.blprnt.com/blog/blprnt/random-number-multiples)
