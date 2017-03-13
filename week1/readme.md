@@ -12,11 +12,16 @@ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a w
 6. Share work and discuss (30 minutes) 
 7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
 
-##Artists 
-(Lizzy)
+##Artists
 * [Rafaël Rozendaal] (http://www.newrafael.com/websites/)
 * [Camille Utterback] (http://camilleutterback.com/)
 * [Aaron Koblin “the sheep market”] (http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Vishal K Dar and Gabriel L Dunne] (https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"] (http://www.what-a-misunderstanding.com/)
-
+* [Peter Crnokrak] (http://www.petercrnokrak.com)
+* [Rafael Lozano-Hemmer] (http://www.lozano-hemmer.com/bifurcation.php)
+* [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
+* [ken Goldberg] (https://boomcalifornia.com/2015/08/18/bloom/)
+* [Casey Reas](http://reas.com/)
+* [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
+* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
