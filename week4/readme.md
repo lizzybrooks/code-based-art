@@ -18,6 +18,7 @@
 
 ##Artists/Projects
 * [Yayoi Kusama] (https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
+* [Espada y Santacruz Estudio] (http://www.espadaysantacruz.com/projects/light-kinetics)
 
 ##Add-ons
 * Processing Visualizer for LED matrix panel [here](https://github.com/jdeboi/pimpMyBike)
