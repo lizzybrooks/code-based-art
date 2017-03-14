@@ -21,6 +21,6 @@ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a w
 * [ken Goldberg] (https://boomcalifornia.com/2015/08/18/bloom/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 * [Peter Crnokrak] (http://www.petercrnokrak.com)
-* [Casey Reas](http://reas.com/)
+* [Casey Reas](https://vimeo.com/22955812)
 * [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
 
