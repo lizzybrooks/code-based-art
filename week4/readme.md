@@ -17,7 +17,7 @@
 
 
 ##Artists/Projects
-* 
+* [Yayoi Kusama] https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1
 
 ##Add-ons
 * Processing Visualizer for LED matrix panel [here](https://github.com/jdeboi/pimpMyBike)
