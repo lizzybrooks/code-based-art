@@ -1,4 +1,4 @@
-#code-based art
+code-based art
 
 ##Week 1: Drawing in Processing
 
@@ -7,12 +7,12 @@
 3. A short break (10 mins)
 4. Introduction to the Processing software ([tutorial](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/) and experiments) (30 minutes)
 5. Project 1: draw a self-portrait or series of self portraits (60 minutes).
-CHALLENGE: add incremental movement to your portrait.
-CHALLENGE: draw a self-portrait that is abstract, that describes the self in a way that's not representational.   
-6. Share work and discuss (30 minutes) 
-7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
+ CHALLENGE: add incremental movement to your portrait.
+ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a way that's not representational.   
+ 6. Share work and discuss (30 minutes) 
+ 7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
 
-##Artists
+ ##Artists
 * [Rafaël Rozendaal] (http://www.newrafael.com/websites/)
 * [Camille Utterback] (http://camilleutterback.com/)
 * [Aaron Koblin “the sheep market”] (http://www.aaronkoblin.com/work/thesheepmarket/)
