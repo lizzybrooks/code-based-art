@@ -3,7 +3,7 @@
 Hi There! 
 
 
-Introduction to Code-Based Art is an open workshop in art and technology that we (Lizzy Brooks and Blanca Estela Rodriguez Mandujano) are teaching (in physical form) at Root Division, in San Francisco. 
+Introduction to Code-Based Art is an open workshop in art and technology that we (Lizzy Brooks and Blanca Estela Rodriguez) are teaching (in physical form) at Root Division, in San Francisco. 
 
 We'll make a series of projects that explore creative and interesting applications of custom technology. 
 Each week has its own focus (overviewed below). Look in the folders for more details, examples and source code. 
