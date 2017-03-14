@@ -23,5 +23,4 @@ CHALLENGE: draw a self-portrait that is abstract, that describes the self in a w
 * [Peter Crnokrak] (http://www.petercrnokrak.com)
 * [Casey Reas](http://reas.com/)
 * [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
-* [Rafael Lozano-Hemmer] (http://www.lozano-hemmer.com/bifurcation.php)
 * [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
