@@ -21,3 +21,4 @@
 ##Artists
 * [Anti Eviction Mapping Project] (http://www.antievictionmap.com/)
 * [Jer Thorp, Random Number Multiples] (http://blog.blprnt.com/blog/blprnt/random-number-multiples)
+* [Rafael Lozano-Hemmer] (http://www.lozano-hemmer.com/bifurcation.php)
