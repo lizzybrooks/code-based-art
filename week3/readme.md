@@ -21,4 +21,4 @@
 * [Ben Schwartz] (http://www.benschwartz.co/wikileaks-archive-project)
 * [Gilberto Esparza] (http://www.plantasnomadas.com)
 * [Ariel Guzic] (https://vimeo.com/user8136071)
-* [Stelarc] (stelarc muscle machine)
+* [Stelarc] (http://stelarc.org/?catID=20247)
