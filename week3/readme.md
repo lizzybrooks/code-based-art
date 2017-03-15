@@ -19,6 +19,6 @@
 * [Micah Elizabeth Scott] (http://www.misc.name/#/forest/)
 * [The Queen of Shitty Robots] (https://www.youtube.com/watch?v=Hxdqp3N_ymU)
 * [Ben Schwartz] (http://www.benschwartz.co/wikileaks-archive-project)
-* [Gilberto Esparza] (http://www.plantasnomadas.com)
+* [Gilberto Esparza] (http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Ariel Guzic] (https://vimeo.com/user8136071)
 * [Stelarc] (http://stelarc.org/?catID=20247)
