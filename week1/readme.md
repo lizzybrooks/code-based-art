@@ -21,7 +21,7 @@
 * [Casey Reas](https://vimeo.com/22955812)
 * [Peter Crnokrak](http://www.petercrnokrak.com)
 * [Till Nagel and Christopher Pietsch](https://uclab.fh-potsdam.de/cf/)
-* [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 * [ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
 * [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
+* [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 
