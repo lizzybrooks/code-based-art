@@ -23,7 +23,7 @@ TECHNICAL: Working with an LED matrix panel.  <br>CONCEPTS: Now we can do a lot 
 #### Week 5:
 Open work day and mini exhibition. Use the skills and ideas we've covered so far to create an original artwork. Invite friends to come in the last hour of class to see what everyone has done. Bring cookies and stuff. 
 
-#### Some References:
+#### Some References in Art & Tech:
 #### ARS ELECTRONICA http://www.aec.at/news/en/
 #### SIGGRAPH http://s2017.siggraph.org
 #### TRANSMEDIALE https://2017.transmediale.de
