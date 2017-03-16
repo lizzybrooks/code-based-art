@@ -13,7 +13,7 @@
  7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
 
 
- ## General Overview Electronic Art
+ ## General Overview Art & Technology
 * [David Rokeby](http://www.davidrokeby.com/nchant.html)
 * [Camille Utterback](http://camilleutterback.com)
 * [Theo Jansen](http://www.strandbeest.com)
