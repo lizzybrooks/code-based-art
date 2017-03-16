@@ -23,15 +23,15 @@
 
 
  ## Artists
+ * [Casey Reas](http://reas.com)
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
-* [Camille Utterback](http://camilleutterback.com/)
 * [Aaron Koblin “the sheep market”](http://www.aaronkoblin.com/work/thesheepmarket/)
+* [Camille Utterback](http://camilleutterback.com/)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
 * [Ken Rinaldo](http://www.kenrinaldo.com)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-* [Casey Reas](http://reas.com)
 * [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
 * [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
 * [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
