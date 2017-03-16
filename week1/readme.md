@@ -19,7 +19,6 @@
 * [Camille Utterback](http://camilleutterback.com)
 * [Casey Reas](http://reas.com)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-
 * [Theo Jansen](http://www.strandbeest.com)
 * [Ariel Guzik](https://vimeo.com/user8136071)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
@@ -31,6 +30,7 @@
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
 * [Aaron Koblin “the sheep market”](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
+
  ## Other Artists
 * [Camille Utterback](http://camilleutterback.com/)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
