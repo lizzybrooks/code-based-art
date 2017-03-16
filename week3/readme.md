@@ -1,6 +1,6 @@
-#code-based art
+# code-based art
 
-##Week 3: Getting out of the screen: Arduino and basic electronics
+## Week 3: Getting out of the screen: Arduino and basic electronics
 
 1. Check in/recap from last week. (10 mins)
 2. A slideshow/discussion of interesting artwork (20 mins)
@@ -11,7 +11,7 @@
 7. Share work and discuss (30 minutes)
 
 
-##Artists
+## Artists
 * [Nick Yulman, Sound Cabinet] (http://nysoundworks.org/songcabinet/)
 * [New American Public Art] (http://www.newamericanpublicart.com/ourself)
 * [Mary Franck & Kadet Kuhne] (http://www.maryfranck.net/portfolio/carapace/)
