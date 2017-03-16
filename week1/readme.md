@@ -13,7 +13,6 @@
  7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
 
 
-
  ## General Overview Electronic Art
 * [David Rokeby](http://www.davidrokeby.com/nchant.html)
 * [Camille Utterback](http://camilleutterback.com)
@@ -22,21 +21,20 @@
 * [Stelarc](http://stelarc.org/?catID=20247)
 * [Eduardo Kac](http://www.ekac.org)
 
- ## Others
+
  ## Artists
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
 * [Camille Utterback](http://camilleutterback.com/)
 * [Aaron Koblin “the sheep market”](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
-
-Ken Rinaldo http://www.kenrinaldo.com
-Gilberto Esparza (http://www.parasitosurbanos.com/parasitos/proyecto.html)
-Rafael Lozano-Hemmer http://www.lozano-hemmer.com
-Casey Reas http://reas.com
-Ken Goldberg https://boomcalifornia.com/2015/08/18/bloom/
-Ben Schwartz http://www.benschwartz.co/wikileaks-archive-project
-Ebru Kurbak (http://ebrukurbak.net/white-shadow/)
-Seiko Mikami http://special.ycam.jp/doc/work/index_en.html
+* [Ken Rinaldo](http://www.kenrinaldo.com)
+* [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
+* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
+* [Casey Reas](http://reas.com)
+* [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
+* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
+* [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
+* [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
 
 
