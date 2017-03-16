@@ -19,7 +19,7 @@
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
 
- ## Favorites B
+ ## General Overview Electronic Art
 * [David Rokeby] (http://www.davidrokeby.com/nchant.html)
 * [Camille Utterback] (http://camilleutterback.com)
 * [Theo Jansen] (http://www.strandbeest.com)
