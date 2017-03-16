@@ -24,7 +24,7 @@
  ## Processing Artists
 * [Casey Reas](http://reas.com)
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
-* [Aaron Koblin “the sheep market”](http://www.aaronkoblin.com/work/thesheepmarket/)
+* [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 
  ## Other Artists
