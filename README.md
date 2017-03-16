@@ -25,6 +25,6 @@ Open work day and mini exhibition. Use the skills and ideas we've covered so far
 
 #### Some References:
 #### ARS ELECTRONICA http://www.aec.at/news/en/
-https://2017.transmediale.de
-http://eyeofestival.com/
-http://transitiomx.net
+#### TRANSMEDIALE https://2017.transmediale.de
+#### EYEO FESTIVAL http://eyeofestival.com/
+#### TRANSITIOMX http://transitiomx.net
