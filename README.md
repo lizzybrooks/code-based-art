@@ -25,6 +25,7 @@ Open work day and mini exhibition. Use the skills and ideas we've covered so far
 
 #### Some References:
 #### ARS ELECTRONICA http://www.aec.at/news/en/
+#### SIGGRAPH http://s2017.siggraph.org
 #### TRANSMEDIALE https://2017.transmediale.de
 #### TRANSITIOMX http://transitiomx.net
 #### ZKM http://zkm.de/en
