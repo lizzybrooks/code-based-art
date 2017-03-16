@@ -14,7 +14,6 @@
 
 
  ## Art & Technology Artists
-* [David Rokeby](http://www.davidrokeby.com/nchant.html)
 * [Golan Levin](http://www.flong.com)
 * [Camille Utterback](http://camilleutterback.com)
 * [Theo Jansen](http://www.strandbeest.com)
@@ -28,6 +27,7 @@
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 
  ## Other Artists
+* [David Rokeby](http://www.davidrokeby.com/nchant.html)
 * [Ariel Guzik](https://vimeo.com/user8136071)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Camille Utterback](http://camilleutterback.com/)
