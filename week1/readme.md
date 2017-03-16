@@ -16,6 +16,7 @@
  ## Art & Technology Artists
 * [David Rokeby](http://www.davidrokeby.com/nchant.html)
 * [Camille Utterback](http://camilleutterback.com)
+* [Golan Levin](http://www.flong.com)
 * [Theo Jansen](http://www.strandbeest.com)
 * [Ariel Guzik](https://vimeo.com/user8136071)
 * [Stelarc](http://stelarc.org/?catID=20247)
