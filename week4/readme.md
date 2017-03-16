@@ -1,6 +1,6 @@
-#code-based art
+# code-based art
 
-##Week 4: Working with an LED matrix panel
+## Week 4: Working with an LED matrix panel
 
 1. Check in and remember what we did last week. (10 mins)
 2. A slideshow/discussion of interesting artwork (20 minutes)
@@ -16,14 +16,14 @@
 
 
 
-##Artists/Projects
-* [Yayoi Kusama] (https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
-* [Espada y Santacruz Estudio] (http://www.espadaysantacruz.com/projects/light-kinetics)
+## Artists/Projects
+* [Yayoi Kusama](https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
+* [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
 
-##Add-ons
+## Add-ons
 * Processing Visualizer for LED matrix panel [here](https://github.com/jdeboi/pimpMyBike)
 * Add motion or vibration sensors to activate your display:
-For motion, explore PIR sensors with [this overview] (https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview) and [this example] (https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/arduino).
-For vibration sensors, use the Piezo electric disk and the [knock tutorial] (https://www.arduino.cc/en/Tutorial/Knock).
+For motion, explore PIR sensors with [this overview](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview) and [this example](https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples/arduino).
+For vibration sensors, use the Piezo electric disk and the [knock tutorial](https://www.arduino.cc/en/Tutorial/Knock).
 
 
