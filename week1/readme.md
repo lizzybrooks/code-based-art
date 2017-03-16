@@ -19,16 +19,19 @@
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
 
-*David Rokeby n-Cha(n)t http://www.davidrokeby.com/nchant.html
-*Camille Utterback http://camilleutterback.com
-*Theo Jansen http://www.strandbeest.com
+ ## Favorites B
+* [David Rokeby] (http://www.davidrokeby.com/nchant.html)
+* [Camille Utterback] (http://camilleutterback.com)
+* [Theo Jansen] (http://www.strandbeest.com)
+* [Ariel Guzik] (https://vimeo.com/user8136071)
+* [Stelarc] (http://stelarc.org/?catID=20247)
+* [Eduardo Kac] (http://www.ekac.org)
+
+ ## Others
 Ken Rinaldo http://www.kenrinaldo.com
+Gilberto Esparza (http://www.parasitosurbanos.com/parasitos/proyecto.html)
 Rafael Lozano-Hemmer http://www.lozano-hemmer.com
-*Ariel Guzik https://vimeo.com/user8136071
-*Gilberto Esparza (http://www.parasitosurbanos.com/parasitos/proyecto.html)
-*Stelarc http://stelarc.org/?catID=20247
-Eduardo Kac http://www.ekac.org
-*Casey Reas http://reas.com
+Casey Reas http://reas.com
 Ken Goldberg https://boomcalifornia.com/2015/08/18/bloom/
 Ben Schwartz http://www.benschwartz.co/wikileaks-archive-project
 Ebru Kurbak (http://ebrukurbak.net/white-shadow/)
