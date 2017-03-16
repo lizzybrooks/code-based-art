@@ -18,9 +18,7 @@
 * [Aaron Koblin “the sheep market”](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
-* [Casey Reas](https://vimeo.com/22955812)
-* [Peter Crnokrak](http://www.petercrnokrak.com)
-* [Till Nagel and Christopher Pietsch](https://uclab.fh-potsdam.de/cf/)
-* [ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
-* [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
+
+
+
 
