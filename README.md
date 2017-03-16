@@ -24,7 +24,7 @@ TECHNICAL: Working with an LED matrix panel.  <br>CONCEPTS: Now we can do a lot 
 Open work day and mini exhibition. Use the skills and ideas we've covered so far to create an original artwork. Invite friends to come in the last hour of class to see what everyone has done. Bring cookies and stuff. 
 
 #### Some References:
-[ARS ELECTRONICA] (http://www.aec.at/news/en/)
+#### ARS ELECTRONICA http://www.aec.at/news/en/
 https://2017.transmediale.de
 http://eyeofestival.com/
 http://transitiomx.net
