@@ -13,13 +13,14 @@
  7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
 
 
+
  ## General Overview Electronic Art
-* [David Rokeby] (http://www.davidrokeby.com/nchant.html)
-* [Camille Utterback] (http://camilleutterback.com)
-* [Theo Jansen] (http://www.strandbeest.com)
-* [Ariel Guzik] (https://vimeo.com/user8136071)
-* [Stelarc] (http://stelarc.org/?catID=20247)
-* [Eduardo Kac] (http://www.ekac.org)
+* [David Rokeby](http://www.davidrokeby.com/nchant.html)
+* [Camille Utterback](http://camilleutterback.com)
+* [Theo Jansen](http://www.strandbeest.com)
+* [Ariel Guzik](https://vimeo.com/user8136071)
+* [Stelarc](http://stelarc.org/?catID=20247)
+* [Eduardo Kac](http://www.ekac.org)
 
  ## Others
  ## Artists
