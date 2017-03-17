@@ -27,37 +27,4 @@
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 
- ## Interactive Art
-* [Camille Utterback](http://camilleutterback.com/)
-* [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
-* [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-* [David Rokeby](http://www.davidrokeby.com/nchant.html)
-* [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
-* [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
-* [Till Nagel and Christopher Pietsch](https://uclab.fh-potsdam.de/cf/)
-* [Peter Crnokrak](http://www.petercrnokrak.com)
-* [Anti Eviction Mapping Project](http://www.antievictionmap.com/)
-* [Jer Thorp, Random Number Multiples](http://blog.blprnt.com/blog/blprnt/random-number-multiples)
-* [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
-
- ## Beyond the screen
-* [Ariel Guzik](https://vimeo.com/user8136071)
-* [Ken Rinaldo](http://www.kenrinaldo.com)
-* [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
-* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
-* [Nick Yulman, Sound Cabinet](http://nysoundworks.org/songcabinet/)
-* [New American Public Art](http://www.newamericanpublicart.com/ourself)
-* [Mary Franck & Kadet Kuhne](http://www.maryfranck.net/portfolio/carapace/)
-* [Jim Campbell](http://www.jimcampbell.tv/portfolio/objects/portrait_of_rebecca/)
-* [The Queen of Shitty Robots](https://www.youtube.com/watch?v=Hxdqp3N_ymU)
-
- ## Light Art (LED Matrix Panel)
-* [Micah Elizabeth Scott](http://www.misc.name/#/forest/)
-* [Yayoi Kusama](https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
-* [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-
-
-
-
+ 
