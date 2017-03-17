@@ -15,6 +15,7 @@
 
  ## General Overview Artists
 * [Golan Levin](http://www.flong.com)
+* [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
 * [Theo Jansen](http://www.strandbeest.com)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Stelarc](http://stelarc.org/?catID=20247)
@@ -36,7 +37,6 @@
 * [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
 * [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
-* [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
 * [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
 
 
