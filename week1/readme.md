@@ -16,27 +16,29 @@
  ## General Overview Artists
 * [Golan Levin](http://www.flong.com)
 * [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
+* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
 * [Theo Jansen](http://www.strandbeest.com)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Stelarc](http://stelarc.org/?catID=20247)
-* [Eduardo Kac](http://www.ekac.org)
 
  ## Processing Artists
 * [Casey Reas](http://reas.com)
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 
- ## Other Artists
+ ## Interactive Art
 * [Camille Utterback](http://camilleutterback.com/)
-* [David Rokeby](http://www.davidrokeby.com/nchant.html)
-* [Ariel Guzik](https://vimeo.com/user8136071)
+* [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
 * [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
+* [David Rokeby](http://www.davidrokeby.com/nchant.html)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
+
+ ## Art
+* [Ariel Guzik](https://vimeo.com/user8136071)
 * [Ken Rinaldo](http://www.kenrinaldo.com)
-* [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
+* [Eduardo Kac](http://www.ekac.org)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
 * [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
 
 
