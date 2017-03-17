@@ -37,7 +37,6 @@
 * [Peter Crnokrak](http://www.petercrnokrak.com)
 * [Anti Eviction Mapping Project](http://www.antievictionmap.com/)
 * [Jer Thorp, Random Number Multiples](http://blog.blprnt.com/blog/blprnt/random-number-multiples)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/bifurcation.php)
 * [Till Nagel and Christopher Pietsch](https://uclab.fh-potsdam.de/cf/)
 * [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
 
@@ -57,6 +56,7 @@
 * [Micah Elizabeth Scott](http://www.misc.name/#/forest/)
 * [Yayoi Kusama](https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
 * [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
+* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
 
 
 
