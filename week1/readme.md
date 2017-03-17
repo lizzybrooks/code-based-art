@@ -50,11 +50,11 @@
 * [New American Public Art](http://www.newamericanpublicart.com/ourself)
 * [Mary Franck & Kadet Kuhne](http://www.maryfranck.net/portfolio/carapace/)
 * [Jim Campbell](http://www.jimcampbell.tv/portfolio/objects/portrait_of_rebecca/)
-* [Micah Elizabeth Scott](http://www.misc.name/#/forest/)
 * [The Queen of Shitty Robots](https://www.youtube.com/watch?v=Hxdqp3N_ymU)
 * [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
 
  ## Light Art (LED Matrix Panel)
+* [Micah Elizabeth Scott](http://www.misc.name/#/forest/)
 * [Yayoi Kusama](https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
 * [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
 
