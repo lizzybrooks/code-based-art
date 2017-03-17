@@ -13,7 +13,7 @@
  7. Encourage students to upload projects to Github repository (show how that works).(5 minutes)
 
 
- ## General Overview Artists
+ ## Artists
 * [Golan Levin](http://www.flong.com)
 * [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
 * [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
