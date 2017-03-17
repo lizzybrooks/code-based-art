@@ -34,7 +34,7 @@
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
 
- ## Art
+ ## Beyond the screen
 * [Ariel Guzik](https://vimeo.com/user8136071)
 * [Ken Rinaldo](http://www.kenrinaldo.com)
 * [Eduardo Kac](http://www.ekac.org)
