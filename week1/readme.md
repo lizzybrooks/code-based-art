@@ -20,6 +20,7 @@
 * [Theo Jansen](http://www.strandbeest.com)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Stelarc](http://stelarc.org/?catID=20247)
+* [Eduardo Kac](http://www.ekac.org)
 
  ## Processing Artists
 * [Casey Reas](http://reas.com)
@@ -43,7 +44,6 @@
  ## Beyond the screen
 * [Ariel Guzik](https://vimeo.com/user8136071)
 * [Ken Rinaldo](http://www.kenrinaldo.com)
-* [Eduardo Kac](http://www.ekac.org)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
 * [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
 * [Nick Yulman, Sound Cabinet](http://nysoundworks.org/songcabinet/)
