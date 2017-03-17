@@ -21,8 +21,6 @@
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
 * [Stelarc](http://stelarc.org/?catID=20247)
 * [Eduardo Kac](http://www.ekac.org)
-
- ## Processing Artists
 * [Casey Reas](http://reas.com)
 * [Rafaël Rozendaal](http://www.newrafael.com/websites/)
 * [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
