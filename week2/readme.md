@@ -19,10 +19,4 @@
 
 
 ## Artists
-* [Anti Eviction Mapping Project](http://www.antievictionmap.com/)
-* [Jer Thorp, Random Number Multiples](http://blog.blprnt.com/blog/blprnt/random-number-multiples)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/bifurcation.php)
-* [Peter Crnokrak](http://www.petercrnokrak.com)
-* [Till Nagel and Christopher Pietsch](https://uclab.fh-potsdam.de/cf/)
-* [ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
-* [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
+
