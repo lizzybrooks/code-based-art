@@ -15,15 +15,16 @@
 
  ## Artists
 * [Golan Levin](http://www.flong.com)
-* [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
-* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
-* [Theo Jansen](http://www.strandbeest.com)
 * [Gilberto Esparza](http://www.parasitosurbanos.com/parasitos/proyecto.html)
+* [Theo Jansen](http://www.strandbeest.com)
 * [Stelarc](http://stelarc.org/?catID=20247)
-* [Eduardo Kac](http://www.ekac.org)
 * [Casey Reas](http://reas.com)
-* [Rafaël Rozendaal](http://www.newrafael.com/websites/)
-* [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
 * [Fathom, density map](https://flowingdata.com/2011/12/05/what-seven-billion-people-looks-like/)
 * [Patterns](http://www.p-a-t-t-e-r-n-s.net/moca-pavilion-textile-room-3/)
+* [Ebru Kurbak](http://ebrukurbak.net/white-shadow/)
+* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
+* [Eduardo Kac](http://www.ekac.org)
+* [Rafaël Rozendaal](http://www.newrafael.com/websites/)
+* [Diana Lange](http://butdoesitfloat.com/My-job-is-to-make-images-and-leave-the-decision-making-and-conclusion)
+
  
