@@ -30,4 +30,5 @@ Open work day and mini exhibition. Use the skills and ideas we've covered so far
 #### ZKM http://zkm.de/en
 #### TRANSITIOMX http://transitiomx.net
 #### EYEO FESTIVAL http://eyeofestival.com/
+#### NEAT http://neat.thecjm.org/directors-foreward/
 
