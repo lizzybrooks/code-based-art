@@ -31,4 +31,5 @@ Open work day and mini exhibition. Use the skills and ideas we've covered so far
 #### TRANSITIOMX http://transitiomx.net
 #### EYEO FESTIVAL http://eyeofestival.com/
 #### NEAT http://neat.thecjm.org/directors-foreward/
+#### OpenFrameworks http://openframeworks.cc/gallery/
 
