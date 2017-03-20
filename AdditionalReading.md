@@ -3,6 +3,7 @@
 * [Introduction to Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 * [What is a function?](http://www.cs.du.edu/~malbow/COMP1671/Notes/ProcessingNotes3.pdf)
 * [What is an object?](https://en.wikipedia.org/wiki/Object_(computer_science))
+* [Introduction to the use of variables](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables)
 
 * [A brief introduction to debugging: 4 videos, lots of moral support](https://vimeo.com/itpred/videos/search:debugging/sort:date)
 
