@@ -11,13 +11,13 @@ To see how **draw()** works, run this example:
 ![Draw function](images/drawfunction.png)
 
 You will see the following:
-* I'm drawing
-* 1
-* I'm drawing
-* 2
-* I'm drawing
-* 3
-* ...
+    * I'm drawing
+    * 1
+    * I'm drawing
+    * 2
+    * I'm drawing
+    * 3
+    * ...
 
 2. ### The setup() Function
 To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
