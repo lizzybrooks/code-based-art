@@ -10,15 +10,9 @@ To see how **draw()** works, run this example:
 
 ![Draw function](images/drawfunction.png)
 
-
-
-
-
-
-
 You will see the following:
-[I'm drawing]
-1
+* [I'm drawing]
+* 1
 * I'm drawing
 * 2
 * I'm drawing
