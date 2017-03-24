@@ -24,10 +24,10 @@ I'm drawing<br>
 To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts.
 
 3. ### Follow
-    * Track the Mouse
+    * Track the Mouse<br>
     The mouseX variable stores the x coordinate, and the mouseY variable stores the y coordinate. <br>
     ![Track the mouse](images/trackmouse.png) <br>
-    
+    Try moving the **background()** to setup 
 
 
     * Draw continuously
