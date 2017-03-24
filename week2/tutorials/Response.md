@@ -33,7 +33,8 @@ To complement the looping **draw()** function, Processing has a function called 
     
     Place the **background()** function to the begining of **draw()** before the shape is drawn. 
 
-
+    ![Mouse Follows](images/mousefollows.png) <br>
+    
     * Draw continuously
     * Set Line Thikness
     * Easing Does it
