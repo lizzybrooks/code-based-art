@@ -2,11 +2,11 @@
 
 ## Week 2: Responsive drawing in Processing 
 
-1. Check in from last week— show your sketch and remember how you made it. (20 mins)
+1. Code that responds to input from the mouse, keyboard, and other devices has to run continuously. 
 
-2. Slideshow/discussion of interesting artwork, led by Blanca. What does interactivity mean? (20 minutes)
+2. 
 
-3. Examples of different types of interactivity, keystroke/mouse-driven or data driven. What is an API and can you use it to access data? (20 minutes)
+3. 
     * [Jer Thorp essay: Art & the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
     * [Is the L Train Fucked?](http://www.istheltrainfucked.com/)[and on GitHub](https://github.com/jgv/is-the-L-train-fucked
 
