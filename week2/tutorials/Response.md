@@ -40,11 +40,5 @@ To complement the looping **draw()** function, Processing has a function called 
 
 11. ### Tap a Key
 
-12. ### Look for especific Keys and move with arrow keys
-
-
-
-
-## Artists
-* [Camille Utterback](http://camilleutterback.com/)
+12. ### Especific Keys and arrow keys
 
