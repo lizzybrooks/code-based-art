@@ -26,21 +26,23 @@ To complement the looping **draw()** function, Processing has a function called 
 
 4. ### Draw continuously
 
-5. ### Set Line Thikness
+    * Set Line Thikness
 
-6. ### Click 
+5. ### Click 
 
     * Click the Mouse
 
-7. ### Detect when not clicked
+    *Detect when not clicked
 
-8. ### Multiple Mouse Buttons
+    *Multiple Mouse Buttons
 
-9. ### Location
+6. ### Location
 
-10. ### Find the Cursor
+    * Find the Cursor
 
-11. ### Tap a Key
+7. ### Type
 
-12. ### Especific Keys and arrow keys
+    * Tap a Key
+
+    * Especific Keys and arrow keys
 
