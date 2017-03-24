@@ -29,8 +29,10 @@ Here is a concise overview https://schoolofdata.org/2013/11/18/web-apis-for-non-
 
 ##### What is a library anyway? <br>
 A library is a collection of functions that allow you to call useful processes into your sketch without your writing every single line of code every single time. With libraries, you stand on the shoulders of generous and detail-oriented giants. Remember we said earlier that Processing is a library for the Java language? When you call the function <br>
+<br>
 *draw();<br>
 ellipse(1,1,1,1);* <br>
+<br>
 you are using a library, i.e. instructions that someone else wrote for making a circle.
 
 
