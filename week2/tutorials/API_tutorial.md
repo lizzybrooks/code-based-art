@@ -43,9 +43,8 @@ you are using a library, i.e. instructions that someone else wrote for making a 
 ###### Remember those keys and secrets? 
 1. Download or copy the sketch Twitter Example 1 https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects
 2. Put your keys and secrets into the sketch: 
+<img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png" width="300px" />
 
-![keys image](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png =400x
-)
 
 
 TECHNICAL: Working with an LED matrix panel.  <br>CONCEPTS: Now we can do a lot of flashy, exciting stuff. How can we use these technologies to illustrate a concept? How can we move beyond the wow factor, and use digital art to ask big questions?
