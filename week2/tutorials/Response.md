@@ -21,13 +21,17 @@ I'm drawing<br>
 ...<br>
 
 2. ### The setup() Function
+
 To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts.
 
 3. ### Follow
     * Track the Mouse<br>
+    
     The mouseX variable stores the x coordinate, and the mouseY variable stores the y coordinate. <br>
+    
     ![Track the mouse](images/trackmouse.png) <br>
-    Try moving the **background()** to setup 
+    
+    Place the **background()** function to the begining of **draw()** before the shape is drawn. 
 
 
     * Draw continuously
