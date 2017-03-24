@@ -25,7 +25,6 @@ To complement the looping **draw()** function, Processing has a function called 
 3. ### Follow
 
     * Track the Mouse
-    * The Dot Follows You
     * Draw continuously
     * Set Line Thikness
     * Easing Does it
