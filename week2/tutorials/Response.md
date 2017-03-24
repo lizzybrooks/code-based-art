@@ -5,7 +5,9 @@
 Code that responds to input from the mouse, keyboard, and other devices has to run continuously. To make this happen, place the lines that update inside de **draw()** function. The code within the **draw()** block runs from top to botoom, then repeats until you quit the program. 
 
 1. ### Example: The draw() Function
-To see how draw() works, run this example:
+To see how **draw()** works, run this example:
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 2. 
 
