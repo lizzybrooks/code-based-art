@@ -24,11 +24,24 @@ To complement the looping **draw()** function, Processing has a function called 
 
 3. ### Track the mouse
 
-4. ### The setup() Function
+4. ### Draw continuously
 
-5. ### The setup() Function
+5. ### Set Line Thikness
 
-6. ### The setup() Function
+6. ### Click the Mouse
+
+7. ### Detect when not clicked
+
+8. ### Multiple Mouse Buttons
+
+9. ### Click the Mouse
+
+10. ### Find the Cursor
+
+11. ### Tap a Key
+
+12. ### Look for especific Keys and move with arrow keys
+
 
 
 
