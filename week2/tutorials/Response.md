@@ -41,6 +41,7 @@ To complement the looping **draw()** function, Processing has a function called 
     
      ![Draw Continuously](images/continuously.png) <br>
      
+     ![Code Draw Continuously](images/codecontinuously.png) <br>
      
     * Set Line Thikness
     * Easing Does it
