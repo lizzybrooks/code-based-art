@@ -44,7 +44,7 @@ you are using a library, i.e. instructions that someone else wrote for making a 
 1. Download or copy the sketch Twitter Example 1 https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects
 2. Put your keys and secrets into the sketch: 
 
-Format: ![keys image](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png
+![keys image](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png=400x
 )
 
 
