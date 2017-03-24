@@ -28,7 +28,9 @@ To complement the looping **draw()** function, Processing has a function called 
 
 5. ### Set Line Thikness
 
-6. ### Click the Mouse
+6. ### Click 
+
+    * Click the Mouse
 
 7. ### Detect when not clicked
 
