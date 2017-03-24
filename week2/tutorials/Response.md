@@ -17,7 +17,7 @@ To see how **draw()** works, run this example:
 
 
 You will see the following:
-*I'm drawing
+*[I'm drawing]
 *1
 *I'm drawing
 *2
