@@ -25,8 +25,8 @@ To complement the looping **draw()** function, Processing has a function called 
 
 3. ### Follow
     * Track the Mouse
-    The mouseX variable stores the x coordinate, and the mouseY variable stores the y coordinate. 
-    ![Track the mouse](images/trackmouse.png)
+    The mouseX variable stores the x coordinate, and the mouseY variable stores the y coordinate. <br>
+    ![Track the mouse](images/trackmouse.png)<br>
     * Draw continuously
     * Set Line Thikness
     * Easing Does it
