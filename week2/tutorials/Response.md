@@ -10,7 +10,7 @@ To see how **draw()** works, run this example:
 
 ![Draw function](images/drawfunction.png)
 
-When the code is run, the following is written to the console
+When the code is run, the following is written to the console.
 
 I'm drawing<br>
 1<br>
@@ -21,13 +21,12 @@ I'm drawing<br>
 ...<br>
 
 2. ### The setup() Function
-To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
+To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts.
 
 3. ### Follow
-Forcing a line-break\s\s
-Next line in the list
-
     * Track the Mouse
+    The mouseX variable stores the x coordinate, and the mouseY variable stores the y coordinate. 
+    ![Track the mouse](images/trackmouse.png)
     * Draw continuously
     * Set Line Thikness
     * Easing Does it
