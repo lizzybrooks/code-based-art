@@ -24,6 +24,11 @@ To complement the looping **draw()** function, Processing has a function called 
 
 3. ### Follow
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
     * Track the Mouse
     * Draw continuously
     * Set Line Thikness
