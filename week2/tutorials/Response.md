@@ -35,7 +35,11 @@ To complement the looping **draw()** function, Processing has a function called 
 
     ![Mouse Follows](images/mousefollows.png) <br>
     
-    * Draw continuously
+    * Draw continuously<br>
+    
+    The **pmouseX** and **pmouseY** variables store the position of the mouse at the previous frame. When combined with **mouseX** and **mouseY** variables, they can be used to draw continuous lines.
+    
+   
     * Set Line Thikness
     * Easing Does it
 
