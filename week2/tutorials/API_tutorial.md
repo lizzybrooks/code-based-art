@@ -38,8 +38,10 @@ you are using a library, i.e. instructions that someone else wrote for making a 
 1. Open your Processing sketch.
 2. In the application's top menu, go to Sketch-->Import Library. You should see Twitter4j down there at the bottom. Click on it.
 3. A bunch of code that says different versions of import Twitter should appear at the top of your sketch. 
-![screenshot](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/Screen%20Shot%202017-03-24%20at%202.24.09%20PM.png=250x250)
+![screenshot](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/Screen%20Shot%202017-03-24%20at%202.24.09%20PM.png=250)
 Format: ![Alt Text](url)
+
+
 
 
 #### Week 4: 
