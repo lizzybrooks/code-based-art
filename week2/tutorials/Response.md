@@ -2,7 +2,7 @@
 
 ## Week 2: Responsive drawing in Processing 
 
-1. Code that responds to input from the mouse, keyboard, and other devices has to run continuously. 
+1. Code that responds to input from the mouse, keyboard, and other devices has to run continuously. To make this happen, place the lines that update inside de draw() function.
 
 2. 
 
