@@ -47,7 +47,8 @@ To complement the looping **draw()** function, Processing has a function called 
     
     The **pmouseX** and **pmouseY** variables can also be used to calculate the speed of the mouse. This is done by measuring the distance between the current and most recent mouse location. If the mouse is moving slowly, the distance is small but if the mouse starts moving faster, the distance grows. A function called **dist()** simplifies this calculation.<br>
     Here, the speed of the mouse is used to set the thikness of the drawn line.
-     ![Line Thikness](images/linethikness.png) <br>
+     ![Line Thikness](images/dist.png) <br>
+     ![Line Thikness](images/distcode.png) <br>
     
     * Easing Does it
 
