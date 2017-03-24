@@ -1,11 +1,11 @@
-## Using Twitter's Rest API in your Processing Sketch
+## Using Twitter's Rest API in Your Processing Sketch
 
 *(release info: This tutorial works for Processing 3 and Twitter 4J 4.0.4)*
 
 
 It's easy to draw with data! All you need to do is follow a few simple steps.
 
-### 1. Register as a developer with Twitter and gain access to their API
+### 1. Register as a developer with Twitter and gain access to their API.
 ##### Why do I need to register? 
 Well, it's their data and they want to know who is using it and how. For an incomplete list of APIs that don't require authentication, check here https://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/.
 
@@ -24,7 +24,6 @@ Here is a concise overview https://schoolofdata.org/2013/11/18/web-apis-for-non-
 ##### How do I do that? 
 
 1. Download the file twitter4j.zip from the examples folder for this class: https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects. Drag the zip file into your Processing libraries directory: Documents-->Processing-->Libraries. Unzip the file. 
-<br>
 2. It's possible that at the time you are using this (especially if it's a long time after March 2017), Twitter4J will have a new version. Check http://twitter4j.org/en/index.html#download to see if version 4.0.4 is still current. If not, download the latest version, and follow this tutorial http://saglamdeniz.com/blog/?p=124 to rename the files.
 3. Why do I need to rename the files? Twitter4J is designed to work with Java. Processing requires a slightly different file structure. No big deal.
 
@@ -35,8 +34,12 @@ ellipse(1,1,1,1);* <br>
 you are using a library, i.e. instructions that someone else wrote for making a circle.
 
 
-#### Week 3: 
-TECHNICAL: Beyond the screen/ introducting to basic circuit building and Arduino.  <br>CONCEPTS: How to explore/reveal relationships between humans and machines? 
+### 3. Bring the Twitter 4J library into your sketch. 
+1. Open your Processing sketch.
+2. In the application's top menu, go to Sketch-->Import Library. You should see Twitter4j down there at the bottom. Click on it.
+3. A bunch of code that says different versions of import Twitter should appear at the top of your sketch. 
+![screenshot](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/Screen%20Shot%202017-03-24%20at%202.24.09%20PM.png)
+Format: ![screenshot of twitter code](url)
 
 #### Week 4: 
 TECHNICAL: Working with an LED matrix panel.  <br>CONCEPTS: Now we can do a lot of flashy, exciting stuff. How can we use these technologies to illustrate a concept? How can we move beyond the wow factor, and use digital art to ask big questions?
