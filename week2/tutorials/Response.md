@@ -32,9 +32,9 @@ To complement the looping **draw()** function, Processing has a function called 
 
     * Click the Mouse
 
-    *Detect when not clicked
+    * Detect when not clicked
 
-    *Multiple Mouse Buttons
+    * Multiple Mouse Buttons
 
 6. ### Location
 
