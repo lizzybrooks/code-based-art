@@ -37,28 +37,34 @@ you are using a library, i.e. instructions that someone else wrote for making a 
 ### 3. Bring the Twitter 4J library into your sketch. 
 1. Open your Processing sketch.
 2. In the application's top menu, go to Sketch-->Import Library. You should see Twitter4j down there at the bottom. Click on it.
-3. A bunch of code that says different versions of import Twitter should appear at the top of your sketch. 
+3. A bunch of code that says different versions of import Twitter should appear at the top of your sketch.
+<br>
+<img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/Screen%20Shot%202017-03-24%20at%202.24.09%20PM.png" width="500px" />
 
 ### 4. Log into Twitter from your sketch.
 ###### Remember those keys and secrets? 
 1. Download or copy the sketch Twitter Example 1 https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects
 2. Put your keys and secrets into the sketch: 
-<img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png" width="300px" />
+<br>
+<img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png" width="500px" />
+<br>
+3. Test your connection by running the sketch. You won't see anything in the sketch itself (besides a black box), but you should see a lot of text (current tweets!) in the console box underneath your code.
 
 
+### 5. Draw stuff with Twitter!
+Now that you're connected, you can use Twitter to do a bunch of crazy stuff. To take control of it, you need to understand what's working where in the sketch. 
 
-TECHNICAL: Working with an LED matrix panel.  <br>CONCEPTS: Now we can do a lot of flashy, exciting stuff. How can we use these technologies to illustrate a concept? How can we move beyond the wow factor, and use digital art to ask big questions?
+1. We covered the Twitter library import and the login process. Let's move deeper into the example sketch. The next line of code creates a new instance of the Twitter object. 
+<img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitterbuild.png" width="500px" />
+<br>
+What does that mean?? This gets a bit deeper into the theory of object-oriented programming. You can read about that here: https://docs.oracle.com/javase/tutorial/java/concepts/index.html or you can copy and paste these lines of code and move on. One important thing to note is that the build() function only likes to be called once. More info on that in this thread http://stackoverflow.com/questions/15832416/multiple-queries-in-different-methods-twitter4j-processing. 
 
-#### Week 5:
-Open work day and mini exhibition. Use the skills and ideas we've covered so far to create an original artwork. Invite friends to come in the last hour of class to see what everyone has done. Bring cookies and stuff. 
+2. Next you see the query and the query count. What are you searching for and how many results do you want to return? This stuff is pretty straightforward as long as you understand that you are using Twitter's REST API, not the Streaming API. More info on that here: https://dev.twitter.com/rest/public
+3. Finally, you'll see the try/catch setup. 
+<img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/trycatchtwitter.png" width="500px" />
+<br> a try/catch statement helps when you're working with an outside entity that you can't control. Literally, you are saying, try getting all these tweets, but if twitter is broken, return the catch statement and tell me so, instead of breaking the sketch. More on try/catch here: https://processing.org/reference/try.html
 
-#### Some References in Art & Tech:
-#### ARS ELECTRONICA http://www.aec.at/news/en/
-#### SIGGRAPH http://s2017.siggraph.org
-#### TRANSMEDIALE https://2017.transmediale.de
-#### ZKM http://zkm.de/en
-#### TRANSITIOMX http://transitiomx.net
-#### EYEO FESTIVAL http://eyeofestival.com/
-#### NEAT http://neat.thecjm.org/directors-foreward/
-#### OpenFrameworks http://openframeworks.cc/gallery/
+4. There are infinite projects that you can make now that you have access to Twitter's API! The five examples in the Twitterprojects folder in this week's syllabus will get you started making some basic drawings: https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects. For other crazy stuff, check the documentation at Twitter4J http://twitter4j.org/en/code-examples.html
+
+
 
