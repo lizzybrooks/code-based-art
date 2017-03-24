@@ -1,5 +1,4 @@
-Here are some examples and starter code to get your projects going:
+This folder holds examples for two responsive drawing tutorials, one using the mouse and one using Twitter! 
 
-* [Interactivity in Processing tutorial](https://processing.org/tutorials/interactivity/)
-* [Images and Pixels tutorial in Processing](https://processing.org/tutorials/pixels/)
+
 
