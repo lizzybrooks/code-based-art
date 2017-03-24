@@ -44,5 +44,7 @@ To complement the looping **draw()** function, Processing has a function called 
 
     * Tap a Key
 
-    * Especific Keys and arrow keys
+    * Check for Especific Keys 
+    
+    * Move with arrow keys
 
