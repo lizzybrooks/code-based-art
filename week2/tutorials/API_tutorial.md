@@ -65,7 +65,7 @@ This gets a bit deeper into the theory of object-oriented programming. You can r
 2. Next you see the query and the query count. What are you searching for and how many results do you want to return? This stuff is pretty straightforward as long as you understand that you are using Twitter's REST API, not the Streaming API. More info on that [here](https://dev.twitter.com/rest/public).
 3. Finally, you'll see the try/catch setup. 
 <img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/trycatchtwitter.png" width="500px" />
-<br> <br> 
+<br> 
 
 A try/catch statement helps when you're working with an outside entity that you can't control. Literally, you are saying, try getting all these tweets, but if twitter is broken, return the catch statement and tell me so, instead of breaking the sketch. More on try/catch [here](https://processing.org/reference/try.html)
 
