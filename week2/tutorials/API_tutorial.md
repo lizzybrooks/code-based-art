@@ -57,12 +57,14 @@ Now that you're connected, you can use Twitter to do a bunch of crazy stuff. To 
 1. We covered the Twitter library import and the login process. Let's move deeper into the example sketch. The next line of code creates a new instance of the Twitter object. 
 <img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitterbuild.png" width="500px" />
 <br>
-What does that mean?? This gets a bit deeper into the theory of object-oriented programming. You can read about that here: https://docs.oracle.com/javase/tutorial/java/concepts/index.html or you can copy and paste these lines of code and move on. One important thing to note is that the build() function only likes to be called once. More info on that in this thread http://stackoverflow.com/questions/15832416/multiple-queries-in-different-methods-twitter4j-processing. 
+###### What does that mean?? 
+This gets a bit deeper into the theory of object-oriented programming. You can read about that [here](https://docs.oracle.com/javase/tutorial/java/concepts/index.html) or you can copy and paste these lines of code and move on. One important thing to note is that the build() function only likes to be called once. More info on that in [this thread](http://stackoverflow.com/questions/15832416/multiple-queries-in-different-methods-twitter4j-processing). 
 
 2. Next you see the query and the query count. What are you searching for and how many results do you want to return? This stuff is pretty straightforward as long as you understand that you are using Twitter's REST API, not the Streaming API. More info on that here: https://dev.twitter.com/rest/public
 3. Finally, you'll see the try/catch setup. 
 <img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/trycatchtwitter.png" width="500px" />
-<br> a try/catch statement helps when you're working with an outside entity that you can't control. Literally, you are saying, try getting all these tweets, but if twitter is broken, return the catch statement and tell me so, instead of breaking the sketch. More on try/catch here: https://processing.org/reference/try.html
+<br> <br> 
+A try/catch statement helps when you're working with an outside entity that you can't control. Literally, you are saying, try getting all these tweets, but if twitter is broken, return the catch statement and tell me so, instead of breaking the sketch. More on try/catch [here](https://processing.org/reference/try.html)
 
 4. There are infinite projects that you can make now that you have access to Twitter's API! The five examples in the Twitterprojects folder in this week's syllabus will get you started making some basic drawings: https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects. For other crazy stuff, check the documentation at Twitter4J http://twitter4j.org/en/code-examples.html
 
