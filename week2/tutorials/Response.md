@@ -8,8 +8,9 @@ Code that responds to input from the mouse, keyboard, and other devices has to r
 
 To see how **draw()** works, run this example:
 ![Draw function](images/drawfunction.png)
-![]()
 
+
+#
 You will see the following:
 I'm drawing
 1
