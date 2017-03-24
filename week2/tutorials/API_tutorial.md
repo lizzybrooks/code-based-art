@@ -10,7 +10,7 @@ Why do I need to register? Well, it's their data and they want to know who is us
 <br>
 What is an API again? Here is a concise overview https://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/.
 <br><br>
-#####Ready to use Twitter? First, follow these steps. 
+##### Ready to use Twitter? First, follow these steps. 
 
 1. Visit https://apps.twitter.com/ and login with your twitter username and password
 2. Click on the ‘Create new app’ button at the top right
@@ -25,15 +25,12 @@ How do I do that?
 2. It's possible that at the time you are using this (especially if it's a long time after March 2017), Twitter4J will have a new version. Check http://twitter4j.org/en/index.html#download to see if version 4.0.4 is still current. If not, download the latest version, and follow this tutorial http://saglamdeniz.com/blog/?p=124 to rename the files.
 3. Why do I need to rename the files? Twitter4J is designed to work with Java. Processing requires a slightly different file structure. No big deal.
 
-What is a library anyway? <br>
+##### What is a library anyway? <br>
 A library is a collection of functions that allow you to call useful processes into your sketch without your writing every single line of code every single time. With libraries, you stand on the shoulders of generous and detail-oriented giants. Remember we said earlier that Processing is a library for the Java language? When you call the function <br>
-draw();<br>
-ellipse(1,1,1,1); <br>
+*draw();<br>
+ellipse(1,1,1,1);* <br>
 you are using a library, i.e. instructions that someone else wrote for making a circle.
 
-
-
-TECHNICAL: Responsive drawings in Processing.  <br>CONCEPTS: What is interactivity? How can it show us something about ourselves?
 
 #### Week 3: 
 TECHNICAL: Beyond the screen/ introducting to basic circuit building and Arduino.  <br>CONCEPTS: How to explore/reveal relationships between humans and machines? 
