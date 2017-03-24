@@ -10,7 +10,6 @@ To see how **draw()** works, run this example:
 
 ![Draw function](images/drawfunction.png)
 
-You will see the following:
 * I'm drawing
 * 1
 * I'm drawing
@@ -23,10 +22,6 @@ You will see the following:
 To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
 
 3. ### Follow
-
-As Kanye West said:
-
->
 
     * Track the Mouse
     * Draw continuously
