@@ -34,7 +34,7 @@ To complement the looping **draw()** function, Processing has a function called 
 
 8. ### Multiple Mouse Buttons
 
-9. ### Click the Mouse
+9. ### Location
 
 10. ### Find the Cursor
 
