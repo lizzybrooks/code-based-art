@@ -22,6 +22,8 @@ To see how **draw()** works, run this example:
 To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
 
 3. ### Follow
+Forcing a line-break\s\s
+Next line in the list
 
     * Track the Mouse
     * Draw continuously
