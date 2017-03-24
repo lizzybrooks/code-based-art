@@ -58,12 +58,11 @@ Now that you're connected, you can use Twitter to do a bunch of crazy stuff. To 
 
 1. We covered the Twitter library import and the login process. Let's move deeper into the example sketch. The next line of code creates a new instance of the Twitter object. 
 <img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitterbuild.png" width="500px" />
-<br>
 
 ##### What does that mean?? 
-This gets a bit deeper into the theory of object-oriented programming. You can read about that here: (https://docs.oracle.com/javase/tutorial/java/concepts/index.html) or you can copy and paste these lines of code and move on. One important thing to note is that the build() function only likes to be called once. More info on that in this thread:(http://stackoverflow.com/questions/15832416/multiple-queries-in-different-methods-twitter4j-processing). 
+This gets a bit deeper into the theory of object-oriented programming. You can read about that [here](https://docs.oracle.com/javase/tutorial/java/concepts/index.html) or you can copy and paste these lines of code and move on. One important thing to note is that the build() function only likes to be called once. More info on that in this [thread](http://stackoverflow.com/questions/15832416/multiple-queries-in-different-methods-twitter4j-processing). 
 
-2. Next you see the query and the query count. What are you searching for and how many results do you want to return? This stuff is pretty straightforward as long as you understand that you are using Twitter's REST API, not the Streaming API. More info on that here: https://dev.twitter.com/rest/public
+2. Next you see the query and the query count. What are you searching for and how many results do you want to return? This stuff is pretty straightforward as long as you understand that you are using Twitter's REST API, not the Streaming API. More info on that [here](https://dev.twitter.com/rest/public).
 3. Finally, you'll see the try/catch setup. 
 <img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/trycatchtwitter.png" width="500px" />
 <br> <br> 
