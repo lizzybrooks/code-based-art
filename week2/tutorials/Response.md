@@ -10,6 +10,8 @@ To see how **draw()** works, run this example:
 
 ![Draw function](images/drawfunction.png)
 
+When the code is run, the following is written to the console
+
 I'm drawing<br>
 1<br>
 I'm drawing<br>
