@@ -22,20 +22,18 @@ You will see the following:
 2. ### The setup() Function
 To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
 
-3. ### Track the mouse
+3. ### Follow
 
-4. ### Draw continuously
-
+    * Track the Mouse
+    * The Dot Follows You
+    * Draw continuously
     * Set Line Thikness
-    
     * Easing Does it
 
 5. ### Click 
 
     * Click the Mouse
-
     * Detect when not clicked
-
     * Multiple Mouse Buttons
 
 6. ### Location
@@ -45,8 +43,6 @@ To complement the looping **draw()** function, Processing has a function called 
 7. ### Type
 
     * Tap a Key
-
     * Check for Especific Keys 
-    
     * Move with arrow keys
 
