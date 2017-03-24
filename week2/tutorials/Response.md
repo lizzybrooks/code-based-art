@@ -6,7 +6,7 @@ Code that responds to input from the mouse, keyboard, and other devices has to r
 
 1. ### Example: The draw() Function
 To see how **draw()** works, run this example:
-![GitHub Logo](/images/draw_function.png)
+![Draw function](/images/drawfunction.png)
 Format: ![Alt Text](url)
 
 2. 
