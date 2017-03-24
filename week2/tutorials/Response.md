@@ -27,6 +27,8 @@ To complement the looping **draw()** function, Processing has a function called 
 4. ### Draw continuously
 
     * Set Line Thikness
+    
+    * Easing Does it
 
 5. ### Click 
 
