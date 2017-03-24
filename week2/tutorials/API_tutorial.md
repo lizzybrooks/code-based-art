@@ -38,13 +38,17 @@ you are using a library, i.e. instructions that someone else wrote for making a 
 1. Open your Processing sketch.
 2. In the application's top menu, go to Sketch-->Import Library. You should see Twitter4j down there at the bottom. Click on it.
 3. A bunch of code that says different versions of import Twitter should appear at the top of your sketch. 
-![screenshot](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/Screen%20Shot%202017-03-24%20at%202.24.09%20PM.png=250)
-Format: ![Alt Text](url)
+
+### 4. Log into Twitter from your sketch.
+###### Remember those keys and secrets? 
+1. Download or copy the sketch Twitter Example 1 https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects
+2. Put your keys and secrets into the sketch: 
+![keys](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png
+)
+Format: ![keys image](https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png
+)
 
 
-
-
-#### Week 4: 
 TECHNICAL: Working with an LED matrix panel.  <br>CONCEPTS: Now we can do a lot of flashy, exciting stuff. How can we use these technologies to illustrate a concept? How can we move beyond the wow factor, and use digital art to ask big questions?
 
 #### Week 5:
