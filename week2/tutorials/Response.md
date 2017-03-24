@@ -20,17 +20,16 @@ You will see the following:
 * ...
 
 2. ### The setup() Function
-To complement the the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
+To complement the looping **draw()** function, Processing has a function called **setup()** that runs just once when the program starts
 
-3. 
-    * [Jer Thorp essay: Art & the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
-    * [Is the L Train Fucked?](http://www.istheltrainfucked.com/)[and on GitHub](https://github.com/jgv/is-the-L-train-fucked
+3. ### Track the mouse
 
-4. Break (10 minutes)
+4. ### The setup() Function
 
-5. Make an interactive drawing (80 minutes)
+5. ### The setup() Function
 
-6. Share work and discuss (30 minutes)
+6. ### The setup() Function
+
 
 
 ## Artists
