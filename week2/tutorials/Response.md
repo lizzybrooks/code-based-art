@@ -51,7 +51,10 @@ To complement the looping **draw()** function, Processing has a function called 
      ![Line Thikness](images/distcode.png) <br>
     
     * Easing Does it
-
+    Easing allows the values asigned to follow the mouse loosely- to lag behind to create a more fluid motion. With easing there are two values: The current value and the value to move toward.  
+     ![Easing](images/easing.png) <br>
+     
+     
 5. ### Click 
 
     * Click the Mouse
