@@ -91,4 +91,11 @@ To complement the looping **draw()** function, Processing has a function called 
     ![Draw some Letters](images/letters.png) <br>
     
     * Check for Especific Keys 
+    
+    In this example, we test for an H or N to be typed. We use the comparison operator, the == symbol, to see if the key value is equal to the characters we're looking for:
+    
+    ![Specific Key](images/specifickey1.png) <br>
+    ![Specific Key](images/specifickey.png) <br>
+    
+    
     * Move with arrow keys
