@@ -97,9 +97,11 @@ To complement the looping **draw()** function, Processing has a function called 
     ![Specific Key](images/specifickey1.png) <br>
     ![Specific Key](images/specifickey.png) <br>
     
-    When we watch for H or N to be pressed, we need to check for both the lowercase and the uppercase letters in the event that someone hits the Shift key or has the Caps Lock set. We combine the two tests toguether with a logical OR, the || symbol. With the logical OR only one of these expressions need to be true for the entire test to be true.  
+    When we watch for H or N to be pressed, we need to check for both the lowercase and the uppercase letters in the event that someone hits the Shift key or has the Caps Lock set. We combine the two tests toguether with a logical OR, the || symbol. Unlike with the logical AND (the && symbol), only one of these expressions need to be true for the entire test to be true.  
     
     * Move with arrow keys
     
     The following example shows how to check for the left or right arrow keys to move a rectangle:
     
+    ![Move with Arrow Keys](images/arrowkeys.png) <br>
+    ![Move with Arrow Keys](images/arrowkeys1.png) <br>
