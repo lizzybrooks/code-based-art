@@ -1,6 +1,6 @@
 void setup(){
  size(480,120); 
- strokeWeight(4);
+ strokeWeight(8);
  stroke(0,102);
 }
 
