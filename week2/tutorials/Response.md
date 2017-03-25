@@ -40,9 +40,7 @@ To complement the looping **draw()** function, Processing has a function called 
     The **pmouseX** and **pmouseY** variables store the position of the mouse at the previous frame. When combined with **mouseX** and **mouseY** variables, they can be used to draw continuous lines.
     
      ![Draw Continuously](images/continuously.png) <br>
-     
      ![Code Draw Continuously](images/codecontinuously.png) <br>
-     
     * Set Line Thikness<br>
     
     The **pmouseX** and **pmouseY** variables can also be used to calculate the speed of the mouse. This is done by measuring the distance between the current and most recent mouse location. If the mouse is moving slowly, the distance is small but if the mouse starts moving faster, the distance grows. A function called **dist()** simplifies this calculation.<br>
