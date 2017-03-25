@@ -77,6 +77,7 @@ To complement the looping **draw()** function, Processing has a function called 
 6. ### Type
 
 Processing keeps track of when any key on a keyboard is pressed, as well as the last key pressed. Like the **mousePressed** variable, the **keyPressed** variable is true when any key is pressed, and **false** when no keys are pressed.
+    
     * Tap a Key
     * Check for Especific Keys 
     * Move with arrow keys
