@@ -76,11 +76,10 @@ To complement the looping **draw()** function, Processing has a function called 
 
 Processing keeps track of when any key on a keyboard is pressed, as well as the last key pressed. Like the **mousePressed** variable, the **keyPressed** variable is true when any key is pressed, and **false** when no keys are pressed.
 <br><br>
-
     * Tap a Key
     In this example the second line is drawn only when a key is pressed.
     ![Tap a key](images/key1.png) <br>
     ![Tap a key](images/key.png) <br>
-    * Check for Especific Keys 
-    * Move with arrow keys
-
+   
+   * Check for Especific Keys 
+   * Move with arrow keys
