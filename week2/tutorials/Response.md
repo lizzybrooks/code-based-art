@@ -69,11 +69,8 @@ To complement the looping **draw()** function, Processing has a function called 
     
     * Multiple Mouse Buttons
 
-6. ### Location
 
-    * Find the Cursor
-
-7. ### Type
+6. ### Type
 
     * Tap a Key
     * Check for Especific Keys 
