@@ -60,6 +60,11 @@ To complement the looping **draw()** function, Processing has a function called 
 5. ### Click 
 
     * Click the Mouse
+    
+    In adition to the location of the mouse, Processing also keeps track of weather the mouse button is pressed. The ** mousePressed** variable has a different value when the mouse button is pressed and when it is not. The ** mousePressed** variable is a data type called boolean, which means that it has only two different values **true** and **false**.
+    
+    
+    
     * Detect when not clicked
     * Multiple Mouse Buttons
 
