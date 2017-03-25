@@ -87,8 +87,8 @@ To complement the looping **draw()** function, Processing has a function called 
     
     This example introduces the **textSize()** function to set the size of the letters, the **textAligne()** function to center the text on its x coordinate, and the **text()** function to draw the letter. 
     
-    ![Draw some Letters](images/letters.png) <br>
     ![Draw some Letters](images/letters1.png) <br>
+    ![Draw some Letters](images/letters.png) <br>
     
     * Check for Especific Keys 
     * Move with arrow keys
