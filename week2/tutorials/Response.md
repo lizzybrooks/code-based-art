@@ -71,7 +71,7 @@ To complement the looping **draw()** function, Processing has a function called 
     
     Processing also tracks which button is pressed if you have more than one button on your mouse. The **mouseButton** variable can be one of three values: **LEFT**, **CENTER** or **RIGHT**. To test which button was pressed, the == operator is needed, as shown here.
     
-    ![Multiple Mouse Buttons](images/mousButtons.png) <br>
+    ![Multiple Mouse Buttons](images/mouseButtons.png) <br>
     ![Multiple Mouse Buttons](images/mouseButtons1.png) <br>
 
 6. ### Type
