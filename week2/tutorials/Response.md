@@ -82,9 +82,13 @@ To complement the looping **draw()** function, Processing has a function called 
     ![Tap a key](images/key.png) <br>
     The key variable stores the most recen key that has been pressed. The data type for key is char, which is short for character. A char variable can store any single character, which include letters of the alphapet, numbers and symbols. Unlike a **string** value, the character data type is specified by single quotes. This is how a char variable is declared and assigned:
     char c = 'A' //Declare and assigns 'A' to the variable c
+    
     * Draw some letters
     
     This example introduces the **textSize()** function to set the size of the letters, the **textAligne()** function to center the text on its x coordinate, and the **text()** function to draw the letter. 
+    
+    ![Draw some Letters](images/letters.png) <br>
+    ![Draw some Letters](images/letters1.png) <br>
     
     * Check for Especific Keys 
     * Move with arrow keys
