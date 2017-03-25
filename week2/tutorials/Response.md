@@ -62,16 +62,11 @@ To complement the looping **draw()** function, Processing has a function called 
     * Click the Mouse
     
     In adition to the location of the mouse, Processing also keeps track of weather the mouse button is pressed. The 
-    **mousePressed** variable has a different value when the mouse button is pressed and when it is not. The **mousePressed** variable is a data type called boolean, which means that it has only two different values **true** and **false**. The **mousePressed** variable is used with the if statement to determine when a line of code will run and when it won't. Try this example:
+    **mousePressed** variable has a different value when the mouse button is pressed and when it is not. The **mousePressed** variable is a data type called boolean, which means that it has only two different values **true** and **false**. The **mousePressed** variable is used with the if statement to determine when a line of code will run and when it won't. You can extend an if block with an else block, allowing your program to choose between two options. Try this example:
     
     ![Mouse Click](images/mouseclick.png) <br>
     ![Mouse Click](images/mouseclick1.png) <br>
     
-    
-    
-    
-    
-    * Detect when not clicked
     * Multiple Mouse Buttons
 
 6. ### Location
