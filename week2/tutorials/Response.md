@@ -80,5 +80,7 @@ To complement the looping **draw()** function, Processing has a function called 
     In this example the second line is drawn only when a key is pressed.
     ![Tap a key](images/key1.png) <br>
     ![Tap a key](images/key.png) <br>
+    The key variable stores the most recen key that has been pressed. The data type for key is char, which is short for character. A char variable can store any single character, which include letters of the alphapet, numbers and symbols. Unlike a **string** value, the character data type is specified by single quotes. This is how a char variable is declared and assigned:
+    char c = 'A' //Declare and assigns 'A' to the variable c
     * Check for Especific Keys 
     * Move with arrow keys
