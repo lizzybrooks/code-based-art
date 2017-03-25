@@ -55,7 +55,7 @@ To complement the looping **draw()** function, Processing has a function called 
      The value of the x variable is always getting closer to target x. The speed at wich it catches up with target x is set with easing variable. A small value causes more of a delay than a larger value. With an easing value of 1 there os no delay.
      
      
-5. ### Click 
+4. ### Click 
 
     * Click the Mouse
     
@@ -72,7 +72,7 @@ To complement the looping **draw()** function, Processing has a function called 
     ![Multiple Mouse Buttons](images/mouseButtons1.png) <br>
     ![Multiple Mouse Buttons](images/mouseButtons.png) <br>
 
-6. ### Type
+5. ### Type
     Processing keeps track of when any key on a keyboard is pressed, as well as the last key pressed. Like the **mousePressed** variable, the **keyPressed** variable is true when any key is pressed, and **false** when no keys are pressed.
 <br>
     * Tap a Key
