@@ -8,7 +8,7 @@
 
 3. Examples of different types of interactivity, keystroke/mouse-driven or data driven. What is an API and can you use it to access data? (Lizzy) (20 minutes)
     * [Jer Thorp essay: Art & the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
-    * [Is the L Train Fucked?](http://www.istheltrainfucked.com/) [and on GitHub](https://github.com/jgv/is-the-L-train-fucked)
+    * [Is the L Train Fucked?](http://www.istheltrainfucked.com/) and the source code for this project [on GitHub](https://github.com/jgv/is-the-L-train-fucked)
 
 4. Break (10 minutes)
 
