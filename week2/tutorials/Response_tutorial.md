@@ -106,6 +106,6 @@ To complement the looping **draw()** function, Processing has a function called 
     ![Move with Arrow Keys](images/arrowkeys.png) <br>
     ![Move with Arrow Keys](images/arrowkeys1.png) <br>
     
-        * Make: Getting started with Processing
+        Make: Getting started with Processing
         A Hands-On Introduction to making Interactive Graphics
       
