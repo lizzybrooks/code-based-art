@@ -7,6 +7,7 @@
 
 * [Introduction to the use of variables](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables)
 * [Types of variables: Integers vs Floats](https://processing.org/examples/integersfloats.html)
+* [Global vs. local variables](https://processing.org/examples/variablescope.html)
 <br>
 
 * [A brief introduction to debugging: 4 videos, lots of moral support](https://vimeo.com/itpred/videos/search:debugging/sort:date)
