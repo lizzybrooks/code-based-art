@@ -21,7 +21,7 @@
 * [Camille Utterback](http://camilleutterback.com/)
 * [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
 * [Peter Crnokrak](http://www.petercrnokrak.com)
-* [Ken Goldberg](https://boomcalifornia.com/2015/08/18/bloom/)
+* [Ken Goldberg](http://goldberg.berkeley.edu/art/)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
 * [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [David Rokeby](http://www.davidrokeby.com/nchant.html)
