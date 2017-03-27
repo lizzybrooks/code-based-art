@@ -5,8 +5,8 @@
 1. Check in from last week— show your sketch and remember how you made it. (20 mins)
 
 2. Slideshow/discussion of interesting artwork, led by Blanca. Interactivity in the Context of New Media Art (20 minutes)
-   * [Camille Utterback](http://camilleutterback.com/)
    * [David Rokeby](http://www.davidrokeby.com/nchant.html)
+   * [Camille Utterback](http://camilleutterback.com/)
    * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
    * [Peter Crnokrak](http://www.petercrnokrak.com)
    * [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
