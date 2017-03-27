@@ -18,8 +18,8 @@
 #### Loops and Conditionals
 
 * Digital Polymath Jose Sanchez has a great series on introductory concepts in Processing. Let him explain [for loops](https://www.youtube.com/watch?v=5ebYmgIoWI8)
-* and [Conditionals](https://www.youtube.com/watch?v=JS_A5miayLk). Then go check out [his website](http://plethora-project.com/).
-* [What is a do while loop](https://en.wikipedia.org/wiki/Do_while_loop)
+* and [Conditionals](https://www.youtube.com/watch?v=JS_A5miayLk). Then go check out [his website](http://plethora-project.com/). Whoa.
+* Wikipedia explores [what is a do while loop](https://en.wikipedia.org/wiki/Do_while_loop)?
 * Daniel Schiffman explores the difference between a for loop and a [while loop](https://www.youtube.com/watch?v=RtAPBvz6k0Y). Bonus: you get to see Schiffman troubleshoot his broken code. This happens to everyone! 
 * [Try/Catch statements in Processing](https://processing.org/reference/try.html)
 
