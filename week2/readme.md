@@ -19,12 +19,12 @@
 
 ## Artists
 * [Camille Utterback](http://camilleutterback.com/)
-* [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
-* [Peter Crnokrak](http://www.petercrnokrak.com)
-* [Ken Goldberg](http://goldberg.berkeley.edu/art/)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-* [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [David Rokeby](http://www.davidrokeby.com/nchant.html)
+* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
+* [Peter Crnokrak](http://www.petercrnokrak.com)
+* [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
+* [Ken Goldberg](http://goldberg.berkeley.edu/art/)
+* [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
 * [Till Nagel and Christopher Pietsch](https://uclab.fh-potsdam.de/cf/)
