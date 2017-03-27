@@ -5,6 +5,12 @@
 1. Check in from last week— show your sketch and remember how you made it. (20 mins)
 
 2. Slideshow/discussion of interesting artwork, led by Blanca. Interactivity in the Context of New Media Art (20 minutes)
+   * [Camille Utterback](http://camilleutterback.com/)
+   * [David Rokeby](http://www.davidrokeby.com/nchant.html)
+   * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
+   * [Peter Crnokrak](http://www.petercrnokrak.com)
+   * [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
+   * [Ken Goldberg](http://goldberg.berkeley.edu/art/)
 
 3. Examples of different types of interactivity, keystroke/mouse-driven or data driven. What is an API and can you use it to access data? (Lizzy) (20 minutes)
     * [Jer Thorp essay: Art & the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
@@ -18,12 +24,6 @@
 
 
 ## Artists
-* [Camille Utterback](http://camilleutterback.com/)
-* [David Rokeby](http://www.davidrokeby.com/nchant.html)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
-* [Peter Crnokrak](http://www.petercrnokrak.com)
-* [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
-* [Ken Goldberg](http://goldberg.berkeley.edu/art/)
 * [Aaron Koblin](http://www.aaronkoblin.com/work/thesheepmarket/)
 * [Vishal K Dar and Gabriel L Dunne](https://vimeo.com/38492062)
 * [Cory Arcangel "What a Misunderstanding"](http://www.what-a-misunderstanding.com/)
