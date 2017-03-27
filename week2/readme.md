@@ -4,7 +4,7 @@
 
 1. Check in from last week— show your sketch and remember how you made it. (20 mins)
 
-2. Slideshow/discussion of interesting artwork, led by Blanca. Interactivity in the context of New Media Art (20 minutes)
+2. Slideshow/discussion of interesting artwork, led by Blanca. Interactivity in the Context of New Media Art (20 minutes)
 
 3. Examples of different types of interactivity, keystroke/mouse-driven or data driven. What is an API and can you use it to access data? (Lizzy) (20 minutes)
     * [Jer Thorp essay: Art & the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
