@@ -1,6 +1,6 @@
 ## Programming concepts explained in human English
 
-####Big and Basic Concepts
+#### Big and Basic Concepts
 
 * Daniel Schiffman's heroic video series explains [everything you need to know](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) (about writing clean, readable code). 
 * [Introduction to Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
@@ -8,14 +8,14 @@
 * [What is an object?](https://en.wikipedia.org/wiki/Object_(computer_science))
 <br>
 
-####Working with Variables
+#### Working with Variables
 
 * [Introduction to the use of variables](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables)
 * [Types of variables: Integers vs Floats](https://processing.org/examples/integersfloats.html)
 * [Global vs. local variables](https://processing.org/examples/variablescope.html)
 <br>
 
-####Loops and Conditionals
+#### Loops and Conditionals
 
 * [For loops](https://www.youtube.com/watch?v=5ebYmgIoWI8)
 * [Conditionals](https://www.youtube.com/watch?v=JS_A5miayLk)
