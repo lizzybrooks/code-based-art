@@ -3,16 +3,16 @@
 #### Big and Basic Concepts
 
 * Daniel Schiffman's heroic video series explains [everything you need to know](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) (about writing clean, readable code). 
-* [Introduction to Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-* [What is a function?](http://www.cs.du.edu/~malbow/COMP1671/Notes/ProcessingNotes3.pdf)
-* [What is an object?](https://en.wikipedia.org/wiki/Object_(computer_science))
+* This doc from Oracle's education module also helps [Introduction to Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/index.html) 
+* And here's a cool example of why and how you might use a function, from the University of Denver's computer science department: [What is a function?](http://www.cs.du.edu/~malbow/COMP1671/Notes/ProcessingNotes3.pdf)
+* Wikipedia also has some thoughts on Object-Oriented programming: [What is an object?](https://en.wikipedia.org/wiki/Object_(computer_science))
 <br>
 
 #### Working with Variables
 
-* [Introduction to the use of variables](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables)
-* [Types of variables: Integers vs Floats](https://processing.org/examples/integersfloats.html)
-* [Global vs. local variables](https://processing.org/examples/variablescope.html)
+* First, what is a variable? How do you put one into your sketch? What can it do? Here's a useful [introduction to the use of variables](https://www.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables) from the Khan Academy
+* Is your variable going to scale by whole number jumps or by decimals? e.g. are you being precise or are you making big moves? [Types of variables: Integers vs Floats](https://processing.org/examples/integersfloats.html) (from Processing.org)
+* Will you use your variable over and over again throughout the program, or does it do one specific thing once? [Global vs. local variables](https://processing.org/examples/variablescope.html)(from Processing.org)
 <br>
 
 #### Loops and Conditionals
