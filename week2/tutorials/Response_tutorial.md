@@ -108,7 +108,9 @@ To complement the looping **draw()** function, Processing has a function called 
     <br>
     
     
-        [Make](https://processing.org/books/): Getting started with Processing
+        Make: Getting started with Processing
         A Hands-On Introduction to making Interactive Graphics
         Casey Reas & Ben Fry
+        * [David Rokeby](http://www.davidrokeby.com/nchant.html)
+        https://processing.org/books/
       
