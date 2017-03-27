@@ -1,8 +1,9 @@
 ## Programming concepts explained in human English
+This class is mostly about learning by doing/playing with coding puzzles, but sometimes you want to understand a concept or a strategy more thoroughly. This becomes more true when you start wanting to do specific things, rather than just play around and see what happens. This page is a collection of useful tutorials, examples and articles that outline fundamental programming concepts and how to use them in your Processing code. Please suggest new links as you find them! 
 
 #### Big and Basic Concepts
 
-* Daniel Schiffman's heroic video series explains [everything you need to know](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) (about writing clean, readable code). 
+* Daniel Schiffman's heroic video series explains [everything you need to know](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) about object-oriented programming (aka about writing clean, readable code). 
 * This doc from Oracle's education module also helps: [Introduction to Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/index.html) 
 * And here's a cool example of why and how you might use a function, from the University of Denver's computer science department: [What is a function?](http://www.cs.du.edu/~malbow/COMP1671/Notes/ProcessingNotes3.pdf)
 * Wikipedia also has some thoughts on Object-Oriented programming: [What is an object?](https://en.wikipedia.org/wiki/Object_(computer_science))
