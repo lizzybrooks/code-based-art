@@ -28,8 +28,14 @@ This class is mostly about learning by doing/playing with coding puzzles, but so
 * [A brief introduction to debugging: 4 videos, lots of moral support](https://vimeo.com/itpred/videos/search:debugging/sort:date)
 <br>
 
+#### Working with Data
 * [What is an API?](http://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/)
 * [Twitter's Streaming vs Rest APIs](https://dev.twitter.com/rest/public)
+* Lots of examples for working with Twitter in the examples folder in week 2
+
+###### How to use an API that isn't Twitter: 
+* http://learningprocessing.com/examples/chp18/example-18-06-XMLYahooWeather
+* 
 
 
 * [Arrays](https://processing.org/tutorials/arrays/)
