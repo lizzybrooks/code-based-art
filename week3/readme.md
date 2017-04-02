@@ -7,7 +7,7 @@
 3. What is Arduino? Plug in the board, open the Ide (15 mins)
 4. Working with LEDs: [blink tutorial](https://www.arduino.cc/en/Tutorial/Blink) and [basic circuitry](http://www.ladyada.net/learn/arduino/lesson3.html) (45 minutes)
 5. Introducing serial communication between Processing and Arduino. Make your light blink with a mouse click (walk through [examples](https://github.com/lizzybrooks/code-based-art/tree/master/week3/examples)). [This tutorial](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing#to-arduino) is also useful. (30 minutes)
-6. Make your lights react to your Processing sketch from last week. (60 minutes)
+6. Make your lights react to your Processing sketch from last week (or to a simple mouse-activated drawing). (60 minutes)
 7. If you master that, go ahead and add a vibration sensor, using Arduino's Knock sensor tutorial: https://www.arduino.cc/en/Tutorial/KnockSensor. 
 
 
