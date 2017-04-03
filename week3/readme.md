@@ -14,8 +14,8 @@
 ## Artists
 * [Ariel Guzik](https://vimeo.com/user8136071)
 * [Ken Rinaldo](http://www.kenrinaldo.com)
-* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
 * [Nick Yulman](http://nysoundworks.org/songcabinet/)
+* [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
 * [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
 * [New American Public Art](http://www.newamericanpublicart.com/ourself)
 * [Mary Franck & Kadet Kuhne](http://www.maryfranck.net/portfolio/carapace/)
