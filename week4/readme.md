@@ -20,6 +20,7 @@
 
 
 ## Artists/Projects
+* [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
 * [Physical Computing's Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 * [Alan Rath](http://alanrath.org/)
 * Paul DeMarinis [jiffy pop](https://www.youtube.com/watch?v=rNPWAGmPpJA) and [Tympanic Ally](https://www.youtube.com/watch?v=rhG8lSKpyX0)
