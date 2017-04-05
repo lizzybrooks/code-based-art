@@ -19,7 +19,6 @@
 ## Artists/Projects
 * [Micah Elizabeth Scott](http://www.misc.name/#/forest/)
 * [Yayoi Kusama](https://www.artsy.net/artwork/yayoi-kusama-infinity-mirrored-room-the-souls-of-millions-of-light-years-away-1)
-* [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
 
 ## Add-ons
