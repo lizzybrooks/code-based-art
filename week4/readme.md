@@ -22,9 +22,9 @@
 ## Artists/Projects
 * [Alan Rath](http://alanrath.org/)
 * [Seiko Mikami](http://special.ycam.jp/doc/work/index_en.html)
+* Paul DeMarinis [jiffy pop](https://www.youtube.com/watch?v=rNPWAGmPpJA) and [Tympanic Ally](https://www.youtube.com/watch?v=rhG8lSKpyX0)
 * [Espada y Santacruz Estudio](http://www.espadaysantacruz.com/projects/light-kinetics)
 * [Physical Computing's Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
-* Paul DeMarinis [jiffy pop](https://www.youtube.com/watch?v=rNPWAGmPpJA) and [Tympanic Ally](https://www.youtube.com/watch?v=rhG8lSKpyX0)
 * [Ned Khan](http://www.thecjm.org/on-view/currently/negev-wheel-ned-kahn/about)
 
 
