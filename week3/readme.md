@@ -20,7 +20,7 @@
 * [Mary Franck & Kadet Kuhne](http://www.maryfranck.net/portfolio/carapace/)
 * [Jim Campbell](http://www.jimcampbell.tv/portfolio/objects/portrait_of_rebecca/)
 * [The Queen of Shitty Robots](https://www.youtube.com/watch?v=Hxdqp3N_ymU)
-
+* [Matthew Ritchie](https://art21.org/artist/matthew-ritchie/)
 
 
 
