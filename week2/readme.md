@@ -32,3 +32,7 @@
 * [Jer Thorp, Random Number Multiples](http://blog.blprnt.com/blog/blprnt/random-number-multiples)
 * [Michael Zoellner](http://i.document.m05.de/2013/05/23/joy-divisions-unknown-pleasures-printed-in-3d/)
 
+* [Joshua Davis](http://www.hypeframework.org)
+* [Joshua Davis Class](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657/classroom/discussions?via=user-profile&enrolledRedirect=1)
+
+
