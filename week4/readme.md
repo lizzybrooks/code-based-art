@@ -13,9 +13,8 @@
 7. Add a motion sensor! (1 hour)
  * [Here](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir) is a good tutorial to start working with your PIR motion sensor. 
  * [This](http://www.instructables.com/id/Motion-Activated-Servo/) Instructable is also useful to connect your servo to the motion sensor. Instructables are a great resource for Arduino projects! 
-8. Talk about the week off and the final class. (30 minutes)
-* We have no class on 4/17 because of [Taste](https://www.rootdivision.org/civicrm/event/register?reset=1&id=916), Root Division's big fundraiser that Thursday, 4/20. Come eat and drink and look at art if you're inclined. 
-* During the week off, use your Monday night to visit [The Noisebridge](https://www.noisebridge.net/), an amazing hacker space on Mission Street at 18th. On Mondays from 7-10pm, they have a free class, Introduction to Circuit Hacking, which is exactly what we're doing! Bring your project and get some advice. Plus, check out their giant LED matrix built from beer bottles.
+
+
 * Work on a project to finish and share in class on week 5!
 
 
