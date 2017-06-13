@@ -2,10 +2,10 @@
 
 ## Week 1: Drawing in Processing
 
-1. What is code-based art and why are we interested in it? Lizzy introduces herself and the class: What are we going to cover? How will it work? Why is this interesting? Blanca introduces herself and the subject of creative coding: Why code? (10 minutes)
+1. What is code-based art and why are we interested in it? What are we going to cover? How will it work? What is creative coding: Why code? (10 minutes)
 2. Go around the room and students introduce themselves. (10 mins)
-3. Lizzy shows the course structure on Github, encourages students to sign up, talks about practical info for the course materials. (15 mins)
-4. Blanca shows inspiring artists, talks about conceptual art in the digital space. (15 mins) 
+3. Show course structure on Github, show students how to sign up, talk about practical info for the course materials. (15 mins)
+4. Overview of inspiring artists, talk about conceptual art in the digital space. (15 mins) 
 5. Ten minute break (10 mins)
 6. Introduction to the Processing software ([tutorial](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/) and experiments) (30 minutes)
 7. Project 1: draw a self-portrait or series of self portraits (60 minutes).
