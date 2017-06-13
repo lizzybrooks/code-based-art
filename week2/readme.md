@@ -4,7 +4,7 @@
 
 1. Check in from last week— show your sketch and remember how you made it. (20 mins)
 
-2. Slideshow/discussion of interesting artwork, led by Blanca. Interactivity in the Context of New Media Art (20 minutes)
+2. Slideshow/discussion of interesting artwork. Interactivity in the Context of New Media Art (20 minutes)
    * [David Rokeby](http://www.davidrokeby.com/nchant.html)
    * [Camille Utterback](http://camilleutterback.com/)
    * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com)
@@ -12,7 +12,7 @@
    * [Facebook Flowers](http://stamen.com/work/facebook-flowers/)
    * [Ken Goldberg](http://goldberg.berkeley.edu/art/)
 
-3. Examples of different types of interactivity, keystroke/mouse-driven or data driven. What is an API and can you use it to access data? (Lizzy) (20 minutes)
+3. Examples of different types of interactivity, keystroke/mouse-driven or data driven. What is an API and can you use it to access data?  (20 minutes)
     * [Jer Thorp essay: Art & the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api)
     * [Is the L Train Fucked?](http://www.istheltrainfucked.com/) and the source code for this project [on GitHub](https://github.com/jgv/is-the-L-train-fucked)
 
