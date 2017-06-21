@@ -1,0 +1,15 @@
+fill(100, 10, 0);
+noStroke();
+rect(15, 15, 70,70);
+fill(130, 15, 0);
+stroke(255, 255, 255);
+rect(30, 30, 40,40);
+stroke(255, 255, 255);
+strokeWeight(15);
+line(50, 30, 50, 70);
+strokeWeight(1);
+stroke(255, 255, 255);
+fill(100, 100, 0);
+stroke(255, 255, 255);
+strokeWeight(2);
+ellipse(50, 50, 20, 20);
