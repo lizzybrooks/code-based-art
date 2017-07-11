@@ -7,7 +7,7 @@
 3. Introduce the Servo motor- what can we do with this thing? (10 minutes)
 4. Hook up the motor and do Sweep tutorial (40 minutes).
   * Use the [Sweep tutorial](https://www.arduino.cc/en/Tutorial/Sweep) to make something with your servo motor.
-  * Weirdly, there is no code on the Arduino site for that tutorial. But, don't worry! The code exists within your Arduino software! Once your wires are connected, go to File-->Examples-->Servo-->Sweep and open the sketch. 
+  * You can also find this code within your Arduino software! Once your wires are connected, go to File-->Examples-->Servo-->Sweep and open the sketch. 
   * Play with adjusting the movement of your motor.  
 5. Break/check: everyone cool? (10 minutes)
 7. Add a motion sensor! (1 hour)
