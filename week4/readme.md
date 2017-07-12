@@ -13,6 +13,7 @@
 7. Add a motion sensor! (1 hour)
  * [Here](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir) is a good tutorial to start working with your PIR motion sensor. 
  * [This](http://www.instructables.com/id/Motion-Activated-Servo/) Instructable is also useful to connect your servo to the motion sensor. Instructables are a great resource for Arduino projects! 
+ * The[Adafruit Motor Selection Guide] (https://learn.adafruit.com/adafruit-motor-selection-guide/powering-your-motors?view=all) will help you to understand which motors can do what things.
 
 
 * Work on a project to finish and share in class on week 5!
